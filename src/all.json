@@ -730,7 +730,7 @@
             "quantity": 0,
             "DON_reference_number": "",
             "contact": "To order this item, contact Media at <a href=\"mailto:media@maharam.com\">media@maharam.com</a>",
-            "Note": "This item will be available soon."
+            "Note": ""
       },
       
       {
@@ -1035,7 +1035,7 @@
           "./img/new/coming-soon.png"
           ],
         "category": "Stationery",
-        "name": "Pocket Folder",
+        "name": "Corporate Folder",
         "price": 1,
         "description": "Corporate folders are designed for delivering flat printed matter that either cannot be provided digitally or calls for special attention. Examples include new hire documents and Maharam Digital Projects specification sheets.",
             "quantity": "1 = 5 folders",
