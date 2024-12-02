@@ -1,0 +1,271 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="src/styles.css" />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+    <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.5.8/slick-theme.min.css'>
+    <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.5.8/slick.css'>
+    <title>Maharam Company Store</title>
+</head>
+<body>
+    <div id="topnav">
+        <div id="accountnav">
+            <div class="wrapper">
+                <div class="searchBar">
+                  <input id="searchQueryInput" type="text" name="searchQueryInput" autocomplete="off" placeholder="Search" class="searchplaceholder" value="" />
+                  <button id="searchQuerySubmit" type="submit" name="searchQuerySubmit">
+                    <svg style="width:18px;height:18x" viewBox="0 0 18 18"><path fill="#666666" d="M9.5,3A6.5,6.5 0 0,1 16,9.5C16,11.11 15.41,12.59 14.44,13.73L14.71,14H15.5L20.5,19L19,20.5L14,15.5V14.71L13.73,14.44C12.59,15.41 11.11,16 9.5,16A6.5,6.5 0 0,1 3,9.5A6.5,6.5 0 0,1 9.5,3M9.5,5C7,5 5,7 5,9.5C5,12 7,14 9.5,14C12,14 14,12 14,9.5C14,7 12,5 9.5,5Z" />
+                    </svg>
+                  </button>
+                </div>
+                <div id="searchResults">
+                </div>
+              </div>
+        </div>
+       <div id="logolockup">
+        <a href="index.html">
+        <h2 style="display: inline-block; margin-top: 50px; margin-left: 0vw;">Maharam Company Store</h2></div></a>
+
+
+
+        <div id="mobmenu">
+            <h4 style="display: inline-block; margin-left: 25px;">Select Category:</h4>
+            <select id="mobDropdown" onchange="location = this.value;">
+                <option value="index.html">New</option>
+                <option value="print.html">Print</option>
+                <option value="presentation.html">Presentation</option>
+                <option value="sampling.html">Sampling</option>
+                <option value="stationery.html">Stationery</option>
+                <option value="books.html" selected="selected">Books</option>
+                <option value="more.html">More</option>
+            </select>
+        </div>
+        
+        <div id="menu">
+            <a href="index.html"><h2>New</h2></a>
+            <a href="print.html">
+            <h2>Print</h2></a>
+            <a href="presentation.html"><h2>Presentation</h2></a>
+            <a href="sampling.html"><h2>Sampling</h2></a>
+            <a href="stationery.html"><h2>Stationery</h2></a>
+            <a href="books.html"><h2 style="color: red;">Books</h2></a>
+            <a href="more.html"><h2>More</h2> </a>
+        </div>
+    </div>
+
+
+
+<div id="stationary2" class="productdetails">
+
+    <p id="exit" onclick="exit()">✕</p>
+    <div id="product-info"></div>
+
+    </div>
+</div>
+
+
+<!-- Product Gallery -->
+
+<div id="gallery" class="first">
+<div class="image-container">
+    <p id="stock">No Longer Available</p>
+    <img id="productsmall" class="default-image" src="img/new/Books/agenda-angled-bw.png" alt="Default Image" onclick="displayBooks(0)">
+    <img id="productsmall" class="hover-image" src="img/new/Books/agenda-angled-bw.png" alt="Hover Image" onclick="displayBooks(0); sies()">
+    <p id="name">Maharam Agenda</p>
+</div>
+
+<div class="image-container">
+    <p id="stock">No Longer Available</p>
+    <img id="productsmall" class="default-image" src="img/new/Books/Maharam_Stories_book_001.png" alt="Default Image" onclick="displayBooks(1)">
+    <img id="productsmall" class="hover-image" src="img/new/Books/Maharam_Stories_book_001.png" alt="Hover Image" onclick="displayBooks(1); sies()">
+    <p id="name">Maharam Stories</p>
+</div>
+<div class="image-container">
+    <img id="productsmall" class="default-image" src="img/angle/irvingharper.jpg" alt="Default Image" onclick="displayBooks(2)">
+    <img id="productsmall" class="hover-image" src="img/angle/irvingharper.jpg" alt="Hover Image" onclick="displayBooks(2); sies()">
+    <p id="name">Irving Harper: Works in Paper</p>
+</div>
+<div class="image-container">
+    <img id="productsmall" class="default-image" src="img/new/Books/Hella Jongerius I Don't Have a Favourite Color.png" alt="Default Image" onclick="displayBooks(3)">
+    <img id="productsmall" class="hover-image" src="img/new/Books/Hella Jongerius I Don't Have a Favourite Color.png" alt="Hover Image" onclick="displayBooks(3); sies()">
+    <p id="name">Hella Jongerius: I Don’t Have a Favourite Color</p>
+  </div>
+  <div class="image-container">
+    <img id="productsmall" class="default-image" src="img/angle/sb.jpg" alt="Default Image" onclick="displayBooks(4)">
+    <img id="productsmall" class="hover-image" src="img/angle/sb.jpg" alt="Hover Image" onclick="displayBooks(4); sies()">
+    <p id="name">Reproducing Scholten & Baijings</p>
+  </div>
+
+    <div class="image-container">
+        <img id="productsmall" class="default-image" src="img/new/coming-soon.png" alt="Default Image" onclick="displayBooks(5)">
+        <img id="productsmall" class="hover-image" src="img/new/coming-soon.png" alt="Hover Image" onclick="displayBooks(5); sies()">
+        <p id="name">Alexander Girard</p>
+    </div>
+    <div class="image-container">
+        <img id="productsmall" class="default-image" src="img/new/coming-soon.png" alt="Default Image" onclick="displayBooks(6)">
+        <img id="productsmall" class="hover-image" src="img/new/coming-soon.png" alt="Hover Image" onclick="displayBooks(6); sies()">
+        <p id="name">Claudy Jongstra</p>
+    </div>
+    <div class="image-container">
+        <img id="productsmall" class="default-image" src="img/new/Books/The Colors of Sies Marjan.png" alt="Default Image" onclick="displayBooks(7)">
+        <img id="productsmall" class="hover-image" src="img/new/Books/The Colors of Sies Marjan.png" alt="Hover Image" onclick="displayBooks(7); sies()">
+        <p id="name">The Colors of Sies Marjan</p>
+    </div>
+    <div class="image-container">
+        <img id="productsmall" class="default-image" src="img/new/coming-soon.png" alt="Default Image" onclick="displayBooks(8)">
+        <img id="productsmall" class="hover-image" src="img/new/coming-soon.png" alt="Hover Image" onclick="displayBooks(8); sies()">
+        <p id="name">Karel Martens: Full Colour</p>
+      </div>
+      <div class="image-container">
+        <img id="productsmall" class="default-image" src="img/new/Books/Studio Job & The Graninger Museum.png" alt="Default Image" onclick="displayBooks(9)">
+        <img id="productsmall" class="hover-image" src="img/new/Books/Studio Job & The Graninger Museum.png" alt="Hover Image" onclick="displayBooks(9); sies()">
+        <p id="name">Studio Job & The Graninger Museum</p>
+      </div>
+ 
+      <div class="image-container">
+        <img id="productsmall" class="default-image" src="img/new/coming-soon.png" alt="Default Image" onclick="displayBooks(11)">
+        <img id="productsmall" class="hover-image" src="img/new/coming-soon.png" alt="Hover Image" onclick="displayBooks(11); sies()">
+        <p id="name">Jacob Hashimoto: Selected Kite Works & Installations</p>
+    </div>
+    <div class="image-container">
+        <img id="productsmall" class="default-image" src="./img/new/coming-soon.png" alt="Default Image" onclick="displayBooks(10)">
+        <img id="productsmall" class="hover-image" src="./img/new/coming-soon.png" alt="Hover Image" onclick="displayBooks(10); sies()">
+        <p id="name">Irma Boom: Colour Based on Nature</p>
+    </div>
+    
+    <div class="image-container">
+      
+        <img id="productsmall" class="default-image" src="img/new/Books/IlseCrawford_AFrameforLife.jpg" alt="Default Image" onclick="displayBooks(12)">
+        <img id="productsmall" class="hover-image" src="img/new/Books/IlseCrawford_AFrameforLife.jpg" alt="Hover Image" onclick="displayBooks(12); sies()">
+        <p id="name">Ilse Crawford: A Frame for Life</p>
+    </div>
+    <div class="image-container">
+
+        <img id="productsmall" class="default-image" src="img/new/Books/Knoll Textiles 1945-2010.png" alt="Default Image" onclick="displayBooks(13)">
+        <img id="productsmall" class="hover-image" src="img/new/Books/Knoll Textiles 1945-2010.png" alt="Hover Image" onclick="displayBooks(13); sies()">
+        <p id="name">Knoll Textiles: 1945-2010</p>
+    </div>
+    <div class="image-container">
+
+        <img id="productsmall" class="default-image" src="./img/new/Books/Textilepedia.png" alt="Default Image" onclick="displayBooks(14)">
+        <img id="productsmall" class="hover-image" src="./img/new/Books/Textilepedia.png" alt="Hover Image" onclick="displayBooks(14); sies()">
+        <p id="name">Textilepedia</p>
+      </div>
+      <div class="image-container">
+        <img id="productsmall" class="default-image" src="img/new/The Autobiography of a Snake- Drawings by Andy Warhol.jpg" alt="Default Image" onclick="displayBooks(15)">
+        <img id="productsmall" class="hover-image" src="img/new/The Autobiography of a Snake- Drawings by Andy Warhol.jpg" alt="Hover Image" onclick="displayBooks(15); sies()">
+        <p id="name">The Autobiography of a Snake: Drawings by Andy Warhol</p>
+      </div>
+      <div class="image-container">
+        <img id="productsmall" class="default-image" src="img/new/A Coloring Book- Drawings by Andy Warhol.jpg" alt="Default Image" onclick="displayBooks(16)">
+        <img id="productsmall" class="hover-image" src="img/new/A Coloring Book- Drawings by Andy Warhol.jpg" alt="Hover Image" onclick="displayBooks(16); sies()">
+        <p id="name">A Coloring Book: Drawings by Andy Warhol</p>
+      </div>
+      <div class="image-container">
+        <p id="stock">Coming Soon</p>
+        <img id="productsmall" class="default-image" src="img/new/Books/Hella Jongerius It All Starts.png" alt="Default Image" onclick="displayBooks(18)">
+        <img id="productsmall" class="hover-image" src="img/new/Books/Hella Jongerius It All Starts.png" alt="Hover Image" onclick="displayBooks(18); sies()">
+        <p id="name">Hella Jongerius: It All Starts With a Yarn</p>
+      </div>
+     
+</div>
+
+
+
+<div id="footer" >
+    <div id="inquiries">
+        <img id="logo" src="img/smalluselogo.svg">
+        <p style="color: #000000;">For inquiries contact:</p>
+        <a href="mailto:productmanagement@maharam.com"><p style="color: #000000;text-decoration: underline; text-decoration-thickness: 1px;">productmanagement@maharam.com</p></a>
+    </div>
+    <div id="footermenu">
+
+        <!-- <p id="footerleft">
+            <a href="./faq.html">FAQ</a>
+        </p> -->
+
+        <p id="footerleft">
+            <a href="https://hermanmiller.sharepoint.com/sites/MHRM-ProductManagement/General%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FMHRM%2DProductManagement%2FGeneral%20Documents%2FSampling%2Dcodes%2D2024%2Epdf&parent=%2Fsites%2FMHRM%2DProductManagement%2FGeneral%20Documents">Sampling Codes</a>
+        </p>
+        
+        <p id="footerleft">
+            <a href="https://hermanmiller.sharepoint.com/sites/MHRM-Home/SitePages/Employee-Purchases.aspx">Maharam Intranet</a>
+        </p>
+        
+       
+        <p id="footerleft">
+            <a href="https://hermanmiller.sharepoint.com/sites/MHRM-Home/Employee%20Purchases%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FMHRM%2DHome%2FEmployee%20Purchases%20Documents%2FMaharam%5Femployee%2Dpurchase%2Dform%2Epdf&parent=%2Fsites%2FMHRM%2DHome%2FEmployee%20Purchases%20Documents">
+                Purchase Form</a>
+            </p>
+</div>
+</div>
+
+<script src="./script.js"></script>
+<script src="//code.jquery.com/jquery-1.11.0.min.js"></script>
+<script src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+<script type="text/javascript" src="//cdn.jsdelivr.net/jquery.slick/1.5.7/slick.min.js"></script>
+
+<script>
+   function sies() {
+        var marjan = document.getElementById("stationary2");
+        if (marjan.style.display === "none"){
+            marjan.style.display = "block";
+        } else{
+            marjan.style.display = "block";
+        }
+    }
+
+    function exit(){
+        var escape = document.getElementById("stationary2");
+        if (escape.style.display === "block"){
+            escape.style.display = "none";
+        } 
+
+        var nosiesmarjan = document.getElementsByClassName("productdetails");
+        if (nosiesmarjan.style.display === "block"){
+            nosiesmarjan.style.display = "none";
+        }
+        
+    }
+
+    function searchProduct() {
+        let input = document.getElementById('searchQueryInput').value;
+        input = input.toLowerCase();
+        let x = document.querySelector('#searchResults');
+        x.style.display = "none";
+        x.innerHTML = "";
+
+        if (input.trim() !== "") {
+            fetch("./src/all.json")
+                .then(response => response.json())
+                .then(data => {
+                    let searchData = JSON.parse(JSON.stringify(data.all));
+
+                    for (let i = 0; i < searchData.length; i++) {
+                        let obj = searchData[i];
+                        if (obj.name.toLowerCase().includes(input)) {
+                            const elem = document.createElement("ul");
+                            elem.textContent = obj.name;
+                            x.appendChild(elem);
+                            elem.onclick = function() {
+                                sies();
+                                displayAll(i); // Pass the index value to the displayNew() function
+                                x.style.display = "none"; // Hide search results when elem is clicked
+                                document.getElementById('searchQueryInput').value = ""; // Clear searchQueryInput
+                            };
+                        }
+                    }
+                });
+            x.style.display = "block"; // Show search results
+        } else {
+            x.style.display = "none"; // Hide search results
+        }
+    }
+
+    document.getElementById('searchQueryInput').addEventListener('keyup', searchProduct);
+
+</script>
+</body>
+</html>

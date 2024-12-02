@@ -1,0 +1,313 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="src/styles.css" />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+    <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.5.8/slick-theme.min.css'>
+    <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.5.8/slick.css'>
+    <title>Maharam Company Store</title>
+</head>
+<body>
+    <div id="topnav">
+        <div id="accountnav">
+            <div class="wrapper">
+                <div class="searchBar">
+                  <input id="searchQueryInput" type="text" name="searchQueryInput" autocomplete="off" placeholder="Search" class="searchplaceholder" value="" />
+                  <button id="searchQuerySubmit" type="submit" name="searchQuerySubmit">
+                    <svg style="width:18px;height:18x" viewBox="0 0 18 18"><path fill="#666666" d="M9.5,3A6.5,6.5 0 0,1 16,9.5C16,11.11 15.41,12.59 14.44,13.73L14.71,14H15.5L20.5,19L19,20.5L14,15.5V14.71L13.73,14.44C12.59,15.41 11.11,16 9.5,16A6.5,6.5 0 0,1 3,9.5A6.5,6.5 0 0,1 9.5,3M9.5,5C7,5 5,7 5,9.5C5,12 7,14 9.5,14C12,14 14,12 14,9.5C14,7 12,5 9.5,5Z" />
+                    </svg>
+                  </button>
+                </div>
+                <div id="searchResults">
+                </div>
+              </div>
+        </div>
+       <div id="logolockup">
+        <a href="index.html">
+        <h2 style="display: inline-block; margin-top: 50px; margin-left: 0vw;">Maharam Company Store</h2></div></a>
+
+        <div id="mobmenu">
+            <h4 style="display: inline-block; margin-left: 25px;">Select Category:</h4>
+            <select id="mobDropdown" onchange="location = this.value;">
+                <option value="index.html">New</option>
+                <option value="print.html">Print</option>
+                <option value="presentation.html">Presentation</option>
+                <option value="sampling.html" selected="selected">Sampling</option>
+                <option value="stationery.html">Stationery</option>
+                <option value="books.html">Books</option>
+                <option value="more.html">More</option>
+            </select>
+        </div>
+        
+        <div id="menu">
+            <a href="index.html"><h2>New</h2></a>
+            <a href="print.html">
+            <h2>Print</h2></a>
+            <a href="presentation.html"><h2>Presentation</h2></a>
+            <a href="sampling.html"><h2 style="color: red;">Sampling</h2></a>
+            <a href="stationery.html"><h2>Stationery</h2></a>
+            <a href="books.html"><h2>Books</h2></a>
+            <a href="more.html"><h2>More</h2> </a>
+        </div>
+    </div>
+
+
+<!-- Detail Product Pages -->
+
+<div id="stationary2" class="productdetails">
+
+    <p id="exit" onclick="exit()">✕</p>
+    <div id="product-info"></div>
+    </div>
+</div>
+
+
+<!-- Product Gallery -->
+
+<div id="gallery" class="first">
+
+
+<div class="image-container">
+    <img id="productsmall" class="default-image" src="./img/new/Sampling/Maharam Binder.jpg" alt="Default Image" onclick="displaySampling(0)">
+    <img id="productsmall" class="hover-image" src="./img/new/Sampling/Maharam Binder.jpg" alt="Hover Image" onclick="displaySampling(0); sies()">
+    <p id="name">Maharam Generic Binder</p>
+</div>
+<div class="image-container">
+    <img id="productsmall" class="default-image" src="./img/new/Sampling/Maharam Binder.jpg" alt="Default Image" onclick="displaySampling(1)">
+    <img id="productsmall" class="hover-image" src="./img/new/Sampling/Maharam Binder.jpg" alt="Hover Image" onclick="displaySampling(1); sies()">
+    <p id="name">Maharam Panel Binder</p>
+</div>
+<div class="image-container">
+    <img id="productsmall" class="default-image" src="./img/new/Sampling/Maharam Binder.jpg" alt="Default Image" onclick="displaySampling(2)">
+    <img id="productsmall" class="hover-image" src="./img/new/Sampling/Maharam Binder.jpg" alt="Hover Image" onclick="displaySampling(2); sies()">
+    <p id="name">Maharam Privacy Curtain Binder</p>
+</div>
+<div class="image-container">
+    <img id="productsmall" class="default-image" src="./img/new/Sampling/Maharam Binder.jpg" alt="Default Image" onclick="displaySampling(3)">
+    <img id="productsmall" class="hover-image" src="./img/new/Sampling/Maharam Binder.jpg" alt="Hover Image" onclick="displaySampling(3); sies()">
+    <p id="name">Maharam Upholstery Binder</p>
+</div>
+<div class="image-container">
+    <img id="productsmall" class="default-image" src="./img/new/Sampling/Maharam Binder.jpg" alt="Default Image" onclick="displaySampling(4)">
+    <img id="productsmall" class="hover-image" src="./img/new/Sampling/Maharam Binder.jpg" alt="Hover Image" onclick="displaySampling(4); sies()">
+    <p id="name">Maharam Wallcovering Binder</p>
+</div>
+
+<div class="image-container">
+    <img id="productsmall" class="default-image" src="./img/new/Sampling/Maharam Binder.jpg" alt="Default Image" onclick="displaySampling(5)">
+    <img id="productsmall" class="hover-image" src="./img/new/Sampling/Maharam Binder.jpg" alt="Hover Image" onclick="displaySampling(5); sies()">
+    <p id="name">Maharam Window Covering Binder</p>
+</div>
+
+<div class="image-container">
+    <img id="productsmall" class="default-image" src="./img/new/Sampling/Maharam Binder Label Holder.jpg" alt="Default Image" onclick="displaySampling(6)">
+    <img id="productsmall" class="hover-image" src="./img/new/Sampling/Maharam Binder Label Holder.jpg" alt="Hover Image" onclick="displaySampling(6); sies()">
+    <p id="name">Maharam Binder Label Holder</p>
+</div>
+<div class="image-container">
+    <img id="productsmall" class="default-image" src="./img/new/Sampling/Maharam Binder Label Solid_Texture.jpg" alt="Default Image" onclick="displaySampling(7)">
+    <img id="productsmall" class="hover-image" src="./img/new/Sampling/Maharam Binder Label Solid_Texture.jpg" alt="Hover Image" onclick="displaySampling(7); sies()">
+    <p id="name">Maharam Binder Label "Solid/Texture"</p>
+</div>
+<div class="image-container">
+    <img id="productsmall" class="default-image" src="./img/new/Sampling/Maharam Binder Label Performance Woven.jpg" alt="Default Image" onclick="displaySampling(8)">
+    <img id="productsmall" class="hover-image" src="./img/new/Sampling/Maharam Binder Label Performance Woven.jpg" alt="Hover Image" onclick="displaySampling(8); sies()">
+    <p id="name">Maharam Binder Label "Performance Woven"</p>
+</div>
+<div class="image-container">
+    <img id="productsmall" class="default-image" src="./img/new/Sampling/Maharam Binder Label Nonwoven.jpg" alt="Default Image" onclick="displaySampling(9)">
+    <img id="productsmall" class="hover-image" src="./img/new/Sampling/Maharam Binder Label Nonwoven.jpg" alt="Hover Image" onclick="displaySampling(9); sies()">
+    <p id="name">Maharam Binder Label "Nonwoven"</p>
+</div>
+
+<div class="image-container">
+    <img id="productsmall" class="default-image" src="./img/new/Sampling/Maharam Binder Label Natural.jpg" alt="Default Image" onclick="displaySampling(10)">
+    <img id="productsmall" class="hover-image" src="./img/new/Sampling/Maharam Binder Label Natural.jpg" alt="Hover Image" onclick="displaySampling(10); sies()">
+    <p id="name">Maharam Binder Label "Natural"</p>
+</div>
+<div class="image-container">
+    <img id="productsmall" class="default-image" src="./img/new/Sampling/Maharam Memo Bin_new.jpg" alt="Default Image" onclick="displaySampling(11)">
+    <img id="productsmall" class="hover-image" src="./img/new/Sampling/Maharam Memo Bin_new.jpg" alt="Hover Image" onclick="displaySampling(11); sies()">
+    <p id="name">Maharam Memo Bin</p>
+  </div>
+
+  <div class="image-container">
+    <img id="productsmall" class="default-image" src="./img/new/Sampling/Maharam Memo Bin Label All Categories.jpg" alt="Default Image" onclick="displaySampling(12)">
+    <img id="productsmall" class="hover-image" src="./img/new/Sampling/Maharam Memo Bin Label All Categories.jpg" alt="Hover Image" onclick="displaySampling(12); sies()">
+    <p id="name">Maharam Memo Bin Label All Categories</p>
+  </div>
+  <div class="image-container">
+    <img id="productsmall" class="default-image" src="./img/new/coming-soon.png" alt="Default Image" onclick="displaySampling(13)">
+    <img id="productsmall" class="hover-image" src="./img/new/coming-soon.png" alt="Hover Image" onclick="displaySampling(13); sies()">
+    <p id="name">Maharam Memo Bin Label "Rugs"</p>
+  </div>
+  <div class="image-container">
+    <img id="productsmall" class="default-image" src="./img/new/Sampling/Maharam Memo Bin Label _Leather_.jpg" alt="Default Image" onclick="displaySampling(14)">
+    <img id="productsmall" class="hover-image" src="./img/new/Sampling/Maharam Memo Bin Label _Leather_.jpg" alt="Hover Image" onclick="displaySampling(14); sies()">
+    <p id="name">Maharam Memo Bin Label "Leather"</p>
+  </div>
+  <div class="image-container">
+    <p id="stock">Coming Soon</p>
+    <img id="productsmall" class="default-image" src="./img/new/Sampling/Drenthe Heath Sampling Card_1.jpg" alt="Default Image" onclick="displaySampling(15)">
+    <img id="productsmall" class="hover-image" src="./img/new/Sampling/Drenthe Heath Sampling Card_2.jpg" alt="Hover Image" onclick="displaySampling(15); sies()">
+    <p id="name">Drenthe Heath Sampling Card</p>
+  </div>
+  <!-- <div class="image-container">
+    <p id="stock">Coming Soon</p>
+    <img id="productsmall" class="default-image" src="./img/new/coming-soon.png" alt="Default Image" onclick="displaySampling(16)">
+    <img id="productsmall" class="hover-image" src="./img/new/coming-soon.png" alt="Hover Image" onclick="displaySampling(16); sies()">
+    <p id="name">Sampling Cart Maharam and Parts</p>
+</div>
+<div class="image-container">
+    <p id="stock">Coming Soon</p>
+    <img id="productsmall" class="default-image" src="./img/new/coming-soon.png" alt="Default Image" onclick="displaySampling(17)">
+    <img id="productsmall" class="hover-image" src="./img/new/coming-soon.png" alt="Hover Image" onclick="displaySampling(17); sies()">
+    <p id="name">Sampling Cart Knoll Textiles and Parts</p>
+</div> -->
+
+    <div class="image-container">
+        <p id="stock">Coming Soon</p>
+        <img id="productsmall" class="default-image" src="./img/new/Sampling/Maharam Hang Set and parts.jpg" alt="Default Image" onclick="displaySampling(18)">
+        <img id="productsmall" class="hover-image" src="./img/new/Sampling/Maharam Hang Set and parts.jpg" alt="Hover Image" onclick="displaySampling(18); sies()">
+        <p id="name">Maharam Hang Set and Parts</p>
+    </div>
+    <div class="image-container">
+        <p id="stock">Coming Soon</p>
+        <img id="productsmall" class="default-image" src="./img/new/Sampling/KT Hang Set.jpg" alt="Default Image" onclick="displaySampling(19)">
+        <img id="productsmall" class="hover-image" src="./img/new/Sampling/KT Hang Set.jpg" alt="Hover Image" onclick="displaySampling(19); sies()">
+        <p id="name">Knoll Textiles Hang Set and parts</p>
+    </div>
+    <div class="image-container">
+        <p id="stock">Coming Soon</p>
+        <img id="productsmall" class="default-image" src="img/new/Sampling/Binder Knoll Textiles.jpg" alt="Default Image" onclick="displaySampling(20)">
+        <img id="productsmall" class="hover-image" src="img/new/Sampling/Binder Knoll Textiles.jpg" alt="Hover Image" onclick="displaySampling(20); sies()">
+        <p id="name">Knoll Textiles Binder</p>
+      </div>
+      <div class="image-container">
+        <p id="stock">Coming Soon</p>
+        <img id="productsmall" class="default-image" src="./img/new/Sampling/KT Memo Bin.jpg" alt="Default Image" onclick="displaySampling(21)">
+        <img id="productsmall" class="hover-image" src="./img/new/Sampling/KT Memo Bin.jpg" alt="Hover Image" onclick="displaySampling(21); sies()">
+        <p id="name">Knoll Textiles Memo Bin</p>
+      </div>
+      <div class="image-container">
+        <p id="stock">Coming Soon</p>
+        <img id="productsmall" class="default-image" src="./img/new/Sampling/Edelman Memo Bin_new.jpg" alt="Default Image" onclick="displaySampling(22)">
+        <img id="productsmall" class="hover-image" src="./img/new/Sampling/Edelman Memo Bin_new.jpg" alt="Hover Image" onclick="displaySampling(22); sies()">
+        <p id="name">Edelman Memo Bin</p>
+      </div>
+
+      <div class="image-container">
+        <img id="productsmall" class="default-image" src="./img/new/Sampling/Edelman Sampling Box_1.jpg" alt="Default Image" onclick="displaySampling(23)">
+        <img id="productsmall" class="hover-image" src="./img/new/Sampling/Edelman Sampling Box_1.jpg" alt="Hover Image" onclick="displaySampling(23); sies()">
+        <p id="name">Edelman Sampling Box</p>
+      </div>
+
+      </div>
+
+     
+
+
+<div id="footer" >
+    <div id="inquiries">
+        <img id="logo" src="img/smalluselogo.svg">
+        <p style="color: #000000;">For inquiries contact:</p>
+    <a href="mailto:productmanagement@maharam.com"><p style="color: #000000;text-decoration: underline; text-decoration-thickness: 1px;">productmanagement@maharam.com</p></a>
+    </div>
+    <div id="footermenu">
+
+        <!-- <p id="footerleft">
+            <a href="./faq.html">FAQ</a>
+        </p> -->
+        <p id="footerleft">
+            <a href="https://hermanmiller.sharepoint.com/sites/MHRM-ProductManagement/General%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FMHRM%2DProductManagement%2FGeneral%20Documents%2FSampling%2Dcodes%2D2024%2Epdf&parent=%2Fsites%2FMHRM%2DProductManagement%2FGeneral%20Documents">Sampling Codes</a>
+        </p>
+        
+        <p id="footerleft">
+            <a href="https://hermanmiller.sharepoint.com/sites/MHRM-Home/SitePages/Employee-Purchases.aspx">Maharam Intranet</a>
+        </p>
+        
+       
+        <p id="footerleft">
+            <a href="https://hermanmiller.sharepoint.com/sites/MHRM-Home/Employee%20Purchases%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FMHRM%2DHome%2FEmployee%20Purchases%20Documents%2FMaharam%5Femployee%2Dpurchase%2Dform%2Epdf&parent=%2Fsites%2FMHRM%2DHome%2FEmployee%20Purchases%20Documents">
+                Purchase Form</a>
+            </p>
+</div>
+</div>
+
+<script src="./script.js"></script>
+<script src="//code.jquery.com/jquery-1.11.0.min.js"></script>
+<script src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+<script type="text/javascript" src="//cdn.jsdelivr.net/jquery.slick/1.5.7/slick.min.js"></script>
+
+<script>
+
+    function sies() {
+        var marjan = document.getElementById("stationary2");
+        if (marjan.style.display === "none"){
+            marjan.style.display = "block";
+        } else{
+            marjan.style.display = "block";
+        }
+    }
+
+    function exit(){
+        var escape = document.getElementById("stationary2");
+        if (escape.style.display === "block"){
+            escape.style.display = "none";
+        } 
+
+        var nosiesmarjan = document.getElementsByClassName("productdetails");
+        if (nosiesmarjan.style.display === "block"){
+            nosiesmarjan.style.display = "none";
+        }
+        
+    }
+
+    function name() {
+        var showname = document.getElementById("name");
+        if (showname.style.display === "none"){
+            showname.style.display = "block";
+        } else{
+            showname.style.display = "none";
+        }
+    }
+    function searchProduct() {
+        let input = document.getElementById('searchQueryInput').value;
+        input = input.toLowerCase();
+        let x = document.querySelector('#searchResults');
+        x.style.display = "none";
+        x.innerHTML = "";
+
+        if (input.trim() !== "") {
+            fetch("./src/all.json")
+                .then(response => response.json())
+                .then(data => {
+                    let searchData = JSON.parse(JSON.stringify(data.all));
+
+                    for (let i = 0; i < searchData.length; i++) {
+                        let obj = searchData[i];
+                        if (obj.name.toLowerCase().includes(input)) {
+                            const elem = document.createElement("ul");
+                            elem.textContent = obj.name;
+                            x.appendChild(elem);
+                            elem.onclick = function() {
+                                sies();
+                                displayAll(i); // Pass the index value to the displayNew() function
+                                x.style.display = "none"; // Hide search results when elem is clicked
+                                document.getElementById('searchQueryInput').value = ""; // Clear searchQueryInput
+                            };
+                        }
+                    }
+                });
+            x.style.display = "block"; // Show search results
+        } else {
+            x.style.display = "none"; // Hide search results
+        }
+    }
+
+    document.getElementById('searchQueryInput').addEventListener('keyup', searchProduct);
+</script>
+</body>
+</html>

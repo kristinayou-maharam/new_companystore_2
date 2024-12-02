@@ -1,0 +1,375 @@
+{
+    "sampling": [
+      {
+        "image": [
+          "./img/new/Sampling/Maharam Binder.jpg"
+          ],
+        "name": "Maharam Generic Binder",
+        "price": 0,
+        "description": "",
+            "quantity": 1,
+            "DON_reference_number": [
+              {"variation": "Select an option", "value": "B/002027"}
+                ],
+            "contact": "",
+            "Note": "Sample Order Entry in DON"
+      },
+      {
+        "image": [
+          "./img/new/Sampling/Maharam Binder.jpg"
+          ],
+        "name": "Maharam Panel Binder",
+        "price": 0,
+        "description": "",
+            "quantity": 1,
+            "DON_reference_number": [
+              {"variation": "Select an option", "value": ""},
+              {"variation": "Panel 1", "value": "B/002013"},
+              {"variation": "Panel 2", "value": "B/002014"}
+                ],
+            "contact": "",
+            "Note": "Sample Order Entry in DON"
+      },
+      {
+        "image": [
+          "./img/new/Sampling/Maharam Binder.jpg"
+          ],
+        "name": "Maharam Privacy Curtain Binder",
+        "price": 0,
+        "description": "",
+        "DON_reference_number": [
+          {"variation": "Select an option", "value": ""},
+          {"variation": "Privacy Curtain 1", "value": "B/002017"},
+          {"variation": "Privacy Curtain 2", "value": "B/002018"},
+          {"variation": "Privacy Curtain 3", "value": "B/002019"}
+            ],
+          "contact": "",
+            "quantity": 1,
+            "Note": "Sample Order Entry in DON"
+      },
+      {
+        "image": [
+         "./img/new/Sampling/Maharam Binder.jpg"
+          ],
+        "name": "Maharam Upholstery Binder",
+        "price": 0,
+        "description": "",
+        "DON_reference_number": [
+          {"variation": "Select an option", "value": ""},
+          {"variation": "Upholstery 1", "value": "B/002001"},
+          {"variation": "Upholstery 2", "value": "B/002002"},
+          {"variation": "Upholstery 3", "value": "B/002003"},
+          {"variation": "Upholstery 4", "value": "B/002004"},
+          {"variation": "Upholstery 5", "value": "B/002005"},
+          {"variation": "Upholstery 6", "value": "B/002006"},
+          {"variation": "Upholstery 7", "value": "B/002007"},
+          {"variation": "Upholstery 8", "value": "B/002008"},
+          {"variation": "Upholstery 9", "value": "B/002009"},
+          {"variation": "Upholstery 10", "value": "B/002011"},
+          {"variation": "Upholstery 11", "value": "B/002012"},
+          {"variation": "Upholstery 12", "value": "B/002029"},
+          {"variation": "Upholstery 13", "value": "B/002031"}
+            ],
+          "contact": "",
+            "quantity": 1,
+            "Note": "Sample Order Entry in DON"
+      },
+      {
+        "image": [
+          "./img/new/Sampling/Maharam Binder.jpg"
+          ],
+        "name": "Maharam Wallcovering Binder",
+        "price": 0,
+        "description": "",
+        "DON_reference_number": [
+          {"variation": "Select an option", "value": ""},
+          {"variation": "Wallcovering 1", "value": "B/002021"},
+          {"variation": "Wallcovering 2", "value": "B/002022"},
+          {"variation": "Wallcovering 3", "value": "B/002023"},
+          {"variation": "Wallcovering 4", "value": "B/002024"},
+          {"variation": "Wallcovering 5", "value": "B/002025"},
+          {"variation": "Wallcovering 6", "value": "B/002026"},
+          {"variation": "Wallcovering 7", "value": "B/002028"}
+            ],
+          "contact": "",
+            "quantity": 1,
+            "Note": "Sample Order Entry in DON"
+      },
+      {
+        "image": [
+          "./img/new/Sampling/Maharam Binder.jpg"
+          ],
+        "name": "Maharam Window Covering Binder",
+        "price": 0,
+        "description": "",
+        "DON_reference_number": [
+          {"variation": "Select an option", "value": ""},
+          {"variation": "Window Covering 1", "value": "B/002015"},
+          {"variation": "Window Covering 2", "value": "B/002016"}
+            ],
+          "contact": "",
+            "quantity": 1,
+            "Note": "Sample Order Entry in DON"
+      },
+      {
+        "image": [
+          "./img/new/Sampling/Maharam Binder Label Holder.jpg"
+          ],
+        "name": "Maharam Binder Label Holder",
+        "price": 0,
+        "description": "",
+            "quantity": 4,
+            "DON_reference_number": [
+              {"variation": "Select an option", "value": "J/LBLHLD"}
+                ],
+            "contact": "",
+            "Note": "<br>Sample Order Entry in DON"
+      },
+      {
+        "image": [
+          "./img/new/Sampling/Maharam Binder Label Solid_Texture.jpg"
+          ],
+        "name": "Maharam Binder Label \"Solid/Texture\"",
+        "price": 0,
+        "description": "",
+            "quantity": 1,
+            "DON_reference_number": [
+              {"variation": "Select an option", "value": "J/LBLSTX"}
+                ],
+            "contact": "",
+            "Note": "Sample Order Entry in DON"
+      },
+      {
+        "image": [
+          "./img/new/Sampling/Maharam Binder Label Performance Woven.jpg"
+          ],
+        "name": "Maharam Binder Label \"Performance Woven\"",
+        "price": 0,
+        "description": "",
+            "quantity": 1,
+            "DON_reference_number": [
+              {"variation": "Select an option", "value": "J/LBLPWV"}
+                ],
+            "contact": "",
+            "Note": "Sample Order Entry in DON"
+      },
+      {
+        "image": [
+          "./img/new/Sampling/Maharam Binder Label Nonwoven.jpg"
+          ],
+        "name": "Maharam Binder Label \"Nonwoven\"",
+        "price": 0,
+        "description": "",
+            "quantity": 1,
+            "DON_reference_number": [
+              {"variation": "Select an option", "value": "J/LBLNWV"}
+                ],
+            "contact": "",
+            "Note": "Sample Order Entry in DON"
+      },
+      {
+        "image": [
+          "./img/new/Sampling/Maharam Binder Label Natural.jpg"
+          ],
+        "name": "Maharam Binder Label \"Natural\"",
+        "price": 0,
+        "description": "",
+            "quantity": 1,
+            "DON_reference_number": [
+              {"variation": "Select an option", "value": "J/LBLNAT"}
+                ],
+            "contact": "",
+            "Note": "Sample Order Entry in DON"
+      },
+      {
+        "image": [
+          "./img/new/Sampling/Maharam Memo Bin_new.jpg"
+          ],
+        "name": "Maharam Memo Bin",
+        "price": 0,
+        "description": "For domestic shipments bins will ship assembled. For international shipments bins will ship flat packed and need to be assembled upon arrival.",
+            "quantity": "1 = four bins",
+            "DON_reference_number": [
+              {"variation": "Select an option", "value": ""},
+              {"variation": "Domestic", "value": "B/MEMBIN"},
+              {"variation": "International", "value": "B/FLTBIN"}
+                ],
+            "contact": "",
+            "Note": "Sample Order Entry in DON"
+      },
+
+      {
+        "image": [
+         "./img/new/Sampling/Maharam Memo Bin Label All Categories.jpg"
+          ],
+        "name": "Maharam Memo Bin Label All Categories",
+        "price": 0,
+        "description": "Label sheet for Maharam memo bin kit includes all categories.",
+            "quantity": 1,
+            "DON_reference_number": [
+              {"variation": "Select an option", "value": "B/LABELS"}
+                ],
+            "contact": "",
+            "Note": "Sample Order Entry in DON"
+      },
+      {
+        "image": [
+          "./img/new/coming-soon.png"
+          ],
+        "name": "Maharam Memo Bin Label \"Rugs\"",
+        "price": 0,
+        "description": "Label sheet for Maharam memo bin kit including rugs.",
+            "quantity": 1,
+            "DON_reference_number": [
+              {"variation": "Select an option", "value": "B/LABEL2"}
+                ],
+            "contact": "",
+            "Note": "Sample Order Entry in DON"
+      },
+      {
+        "image": [
+          "./img/new/Sampling/Maharam Memo Bin Label _Leather_.jpg"
+          ],
+        "name": "Maharam Memo Bin Label \"Leather\"",
+        "price": 0,
+        "description": "Label sheet for Maharam Leather bin.",
+            "quantity": 1,
+            "DON_reference_number": [
+              {"variation": "Select an option", "value": "B/LABELL"}
+                ],
+            "contact": "",
+            "Note": "<br>Sample Order Entry in DON"
+      },
+      {
+        "image": [
+          "./img/new/Sampling/Drenthe Heath Sampling Card_1.jpg",
+          "./img/new/Sampling/Drenthe Heath Sampling Card_2.jpg"
+          ],
+        "name": "Drenthe Heath Sampling Card",
+        "price": 0,
+        "description": "Hand assembled in The Netherlands by Studio Claudy Jongstra. This sampling card includes each colorway available of Drenth Heath.",
+            "quantity": 0,
+            "DON_reference_number": "",
+            "contact": "To order this item, contact Media at <a href=\"mailto:media@maharam.com\">media@maharam.com</a>",
+            "Note": "This item will be available soon."
+      },
+      
+      {
+        "image": [
+          "./img/new/coming-soon.png"
+          ],
+        "name": "Maharam Sampling Cart and Parts",
+        "price": 0,
+        "description": "",
+            "quantity": 0,
+            "DON_reference_number": [
+              {"variation": "Select an option", "value": ""}
+                ],
+            "contact": "",
+            "Note": "This item will be available soon."
+      },
+      {
+        "image": [
+          "./img/new/Sampling/KT Hang Set.jpg"
+          ],
+        "name": "Knoll Textiles Sampling Cart and Parts",
+        "price": 0,
+        "description": "",
+            "quantity": 0,
+            "DON_reference_number": [
+              {"variation": "Select an option", "value": ""}
+                ],
+            "contact": "",
+            "Note": "This item will be available soon."
+      },
+      {
+        "image": [
+          "./img/new/Sampling/Maharam Hang Set and parts.jpg"
+          ],
+        "name": "Maharam Hang Set and Parts",
+        "price": 0,
+        "description": "",
+            "quantity": 0,
+            "DON_reference_number": [
+              {"variation": "Select an option", "value": ""}
+                ],
+            "contact": "",
+            "Note": "This item will be available soon."
+      },
+      {
+        "image": [
+          "./img/new/Sampling/Knoll Textiles Hang Set.jpg"
+          ],
+        "name": "Knoll Textiles Hang Set and Parts",
+        "price": 0,
+        "description": "",
+            "quantity": 0,
+            "DON_reference_number": [
+              {"variation": "Select an option", "value": ""}
+                ],
+            "contact": "",
+            "Note": "This item will be available soon."
+      },
+
+      {
+        "image": [
+          "img/new/Sampling/Binder Knoll Textiles.jpg"
+          ],
+        "name": "Knoll Textiles Binder",
+        "price": 0,
+        "description": "",
+            "quantity": 0,
+            "DON_reference_number": [
+              {"variation": "Select an option", "value": ""}
+                ],
+            "contact": "",
+            "Note": "This item will be available soon."
+      },
+
+      {
+        "image": [
+          "./img/new/Sampling/KT Memo Bin.jpg"
+          ],
+        "name": "Knoll Textiles Memo Bin",
+        "price": 1,
+        "description": "",
+            "quantity": 0,
+            "DON_reference_number": [
+              {"variation": "Select an option", "value": ""}
+                ],
+            "contact": "",
+            "Note": "This item will be available soon."
+      },
+
+      {
+        "image": [
+          "./img/new/Sampling/Edelman Memo Bin_new.jpg"
+          ],
+        "name": "Edelman Memo Bin",
+        "price": 0,
+        "description": "",
+            "quantity": 0,
+            "DON_reference_number": [
+              {"variation": "Select an option", "value": ""}
+                ],
+            "contact": "",
+            "Note": "This item will be available soon."
+      },
+
+      {
+        "image": [
+          "./img/new/Sampling/Edelman Sampling Box_1.jpg"
+          ],
+        "name": "Edelman Sampling Box",
+        "price": 0,
+        "description": "",
+            "quantity": 0,
+            "DON_reference_number": [
+              {"variation": "Select an option", "value": "B/EDLBOX"}
+                ],
+            "contact": "",
+           "Note": "<br>Sample Order Entry in DON<br><br><a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-ProductManagement/General%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FMHRM%2DProductManagement%2FGeneral%20Documents%2FEdelman%20Box%20Contents%2Epdf&parent=%2Fsites%2FMHRM%2DProductManagement%2FGeneral%20Documents target=blank>Link to Box Set Contents</a>"
+    
+      }
+    ]
+  }

@@ -1,0 +1,261 @@
+{
+    "books": [
+      {
+        "image": [
+          "./img/new/Books/agenda-angled-bw.png"
+          ],
+        "name": "Maharam Agenda",
+        "price": 1,
+        "description": "Founded in 1902, Maharam evolved from a pushcart business on the Lower East Side into a leading global textile resource for architects and interior designers. Hardcover. 232 pages. Four randomized cover variations.",
+            "quantity": 0,
+            "DON_reference_number": [
+              {"variation": "Select an option", "value": ""}],
+            "contact": "",
+            "Note": "This item is no longer available and will not be reordered."
+      },
+      {
+        "image": [
+          "./img/new/Books/Maharam_Stories_book_001.png"
+          ],
+        "name": "Maharam Stories",
+        "price": 1,
+        "description": "Maharam Stories brings together a broad range of revealing and engaging design observations from luminaries such as Murray Moss, Hans Ulrich Obrist, John Pawson, Alice Rawsthorn, Michael Rock, Stefan Sagmeister, and more - packaged in a compelling design. Paperback. 284 pages.",
+            "quantity": 0,
+            "DON_reference_number":  [
+              {"variation": "Select an option", "value": ""}],
+            "contact": "",
+            "Note": "This item is no longer available and will not be reordered."
+      },
+      {
+        "image": [
+          "./img/angle/irvingharper.jpg"
+          ],
+        "name": "Irving Harper Works in Paper",
+        "price": 1,
+        "description": "Known for his mid-century creation of the Marshmallow Sofa, Ball Clock, and Herman Miller logo as George Nelson Associates' director of design, Irving Harper made hundreds of rarely seen paper sculptures in his spare time from 1963-2000. Hardcover. 176 pages.",
+            "quantity": 1,
+            "DON_reference_number":  [
+              {"variation": "Select an option", "value": "801024/001"}],
+            "contact": "",
+            "Note": "Sales Order Entry in DON"
+      },
+      {
+        "image": [
+          "./img/new/Books/Hella Jongerius I Don't Have a Favourite Color.png"
+
+          ],
+        "name": "Hella Jongerius: I Don’t Have a Favourite Colour",
+        "price": 1,
+        "description": "Hella Jongerius describes her method of research and application to Vitra products.",
+            "quantity": 1,
+            "DON_reference_number":  [
+              {"variation": "Select an option", "value": "801293/001"}],
+            "contact": "",
+            "Note": "Sales Order Entry in DON"
+      },
+
+      {
+        "image": [
+          "./img/angle/sb.jpg"
+          ],
+        "name": "Reproducing Scholten & Baijings",
+        "price": 1,
+        "description": "The first monograph on Dutch design duo Stefan Scholten and Carole Baijings takes an in-depth look at their research-intensive, hands-on, and iterative approach to making as demonstrated across seven case studies including those with 1616/Arita Japan, MINI, Georg Jensen, and Maharam. Hardcover. 348 pages.",
+            "quantity": 1,
+            "DON_reference_number":  [
+              {"variation": "Select an option", "value": "801105/001"}], 
+            "contact": "",
+            "Note": "Sales Order Entry in DON"
+      },
+      {
+        "image": [
+          "./img/new/coming-soon.png"
+          ],
+        "name": "Alexander Girard",
+        "price": 1,
+        "description": "A monograph on seminal designer Alexander Girard and his distinctive career. ",
+            "quantity": 1,
+            "DON_reference_number": [
+              {"variation": "Select an option", "value": "801294/001"}], 
+            "contact": "",
+            "Note": "Sales Order Entry in DON"
+      },
+
+      {
+        "image": [
+          "./img/new/coming-soon.png"
+          ],
+        "name": "Claudy Jongstra",
+        "price": 1,
+        "description": "This volume explore's Claudy Jonstra's distinctive, sustainable approach and provides an overview on her career. ",
+            "quantity": 1,
+            "DON_reference_number": [
+              {"variation": "Select an option", "value": "001003/001"}],
+            "contact": "",
+            "Note": "Sales Order Entry in DON"
+      },
+
+      {
+        "image": [
+          "./img/new/Books/The Colors of Sies Marjan.png"
+          ],
+        "name": "The Colors of Sies Marjan",
+        "price": 1,
+        "description": "A colorful, comprehensive volume documenting the short-lived but highly influencial work of Sander Lak's beloved and now cult fashion brand, Sies Marjan. ",
+            "quantity": 1,
+            "DON_reference_number": [
+              {"variation": "Select an option", "value": "801628/001"}],
+            "contact": "",
+            "Note": "Sales Order Entry in DON"
+      },
+
+      {
+        "image": [
+          "./img/new/coming-soon.png"
+          ],
+        "name": "Karel Martens: Full Colour",
+        "price": 1,
+        "description": "An intimate and  in-depth photographic documentation of the prolific Dutch graphic design of Karel Martens. ",
+            "quantity": 1,
+            "DON_reference_number": [
+              {"variation": "Select an option", "value": "801073/001"}], 
+            "contact": "",
+            "Note": "Sales Order Entry in DON"
+      },
+
+      {
+        "image": [
+          "img/new/Books/Studio Job & The Graninger Museum.png"
+          ],
+        "name": "Studio Job & The Graninger Museum",
+        "price": 1,
+        "description": "The book traces a survey at the Groninger Museum in the Netherlands featuring 10 years of work by Job Smeets and Nynke Tynagel, including the Bavaria Marquette series and Ruins on the end pages. Hardcover.",
+            "quantity": 1,
+            "DON_reference_number": [
+              {"variation": "Select an option", "value": "801058/001"}], 
+            "contact": "",
+            "Note": "Sales Order Entry in DON"
+      },
+
+      {
+        "image": [
+          "./img/new/coming-soon.png"
+          ],
+        "name": "Irma Boom: Colour Based on Nature",
+        "price": 1,
+        "description": "Colour Based on Nature takes the concept of Irma Boom's previous work further afield, highlighting UNESCO World Heritage sites across the globe and on every continent.",
+            "quantity": 1,
+            "DON_reference_number": [
+              {"variation": "Select an option", "value": "801055-001"}], 
+            "contact": "",
+            "Note": "Sales Order Entry in DON"
+      },
+      {
+        "image": [
+          "./img/new/coming-soon.png"
+          ],
+        "name": "Jacob Hashimoto: Selected Kite Works & Installations",
+        "price": 1,
+        "description": "",
+            "quantity": 1,
+            "DON_reference_number": [
+              {"variation": "Select an option", "value": "801645/001"}], 
+            "contact": "",
+            "Note": ""
+      },
+
+      {
+        "image": [
+          "./img/new/Books/IlseCrawford_AFrameforLife.jpg"
+          ],
+        "name": "Ilse Crawford: A Frame for Life",
+        "price": 1,
+        "description": "Ilse Crawford showcases her body of influential, holistic work,articulating her philosophies for design and living. Featuring StudioIlse’s work from private residences to hotels,restaurants, and retail this book illustrates the effectiveness of design grounded in human needs and desires. Hardcover. 272 pages.",
+            "quantity": 0,
+            "DON_reference_number": [
+              {"variation": "Select an option", "value": "801699/001"}], 
+            "contact": "",
+            "Note":"Sales Order Entry in DON"
+      },
+      {
+        "image": [
+         "./img/new/Books/Knoll Textiles 1945-2010.png"
+          ],
+        "name": "Knoll Textiles: 1945-2010",
+        "price": 1,
+        "description": "A comprehensive study of Knoll’s innovative textile design and the company’s role within the history of interior design. Hardcover. 400 pages.",
+            "quantity": 0,
+            "DON_reference_number": [
+              {"variation": "Select an option", "value": "801701/001"}], 
+            "contact": "",
+            "Note": "Sales Order Entry in DON"
+      }, 
+      {
+        "image": [
+         "./img/new/Books/Textilepedia.png"
+          ],
+        "name": "Textilepedia",
+        "price": 1,
+        "description": "An extensive textile dictionary that covers all essential fabric knowledge from different types of textile materials to finishing options. Hardcover. 248 pages.",
+            "quantity": 0,
+            "DON_reference_number": [
+              {"variation": "Select an option", "value": "801643/001"}], 
+            "contact": "",
+            "Note": "Sales Order Entry in DON"
+      },
+      {
+        "image": [
+          "./img/new/The Autobiography of a Snake- Drawings by Andy Warhol.jpg"
+          ],
+        "name": "The Autobiography of a Snake: Drawings by Andy Warhol",
+        "price": 1,
+        "description": "The story of a snake trying to make it in the world of sixties high-society. Illustrations by Andy Warhol, afterword written by Arthur and Teddy Edelman. Hardcover. 48 pages.",
+            "quantity": 0,
+            "DON_reference_number": [
+              {"variation": "Select an option", "value": "801697/001"}], 
+            "contact": "",
+            "Note": "Sales Order Entry in DON"
+      },
+      {
+        "image": [
+          "./img/new/A Coloring Book- Drawings by Andy Warhol.jpg"
+          ],
+        "name": "A Coloring Book: Drawings by Andy Warhol",
+        "price": 1,
+        "description": "An enchanting colorbook designed by Andy Warhol. Foreward written by Arthur and Teddy Edelman. Paperback. 32 pages.",
+            "quantity": 0,
+            "DON_reference_number": [
+              {"variation": "Select an option", "value": "801698/001"}], 
+            "contact": "",
+            "Note": "Sales Order Entry in DON"
+      },
+      {
+        "image": [
+          "./img/new/coming-soon.png"
+          ],
+        "name": "The Nick Cave Collection",
+        "price": 1,
+        "description": "",
+            "quantity": 0,
+            "DON_reference_number": [
+              {"variation": "Select an option", "value": ""}], 
+            "contact": "",
+            "Note": "Contact Thoroughbred"
+      },
+      {
+        "image": [
+          "img/new/Books/Hella Jongerius It All Starts.png"
+          ],
+        "category": "Print",
+        "name": "Hella Jonggerius: It All Starts With a Yarn",
+        "price": 1,
+        "description": "This book celebrates Nick Cave’s collection with Knoll Textiles and shows insight into his creative process. Created by Bob Faust and Nick Cave. There are two versions of this book, one with a Big Floral Wrap cover and one without.",
+            "quantity": 1,
+            "DON_reference_number": [
+              {"variation": "Select an option", "value": ""}
+            ], 
+            "contact": "",
+            "Note": "Sample Order Entry in DON"
+      }
+    ]
+  }

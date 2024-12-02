@@ -1,0 +1,277 @@
+{
+    "print": [
+      {
+        "image": [
+          "./img/new/Print/mhrm_look book_german.png",
+          "./img/new/Print/lookbook_spread01.jpg"
+          ],
+        "name": "Look Book, 2021 (English, German, French)",
+        "price": 0,
+        "description": "A look book of our company, activities, and approach featuring original photography by Nick Ballón.",
+        "DON_reference_number": "",
+        "contact": "To order this item, contact Media at <a href=\"mailto:media@maharam.com\">media@maharam.com</a>",
+            "quantity": 1,
+            "Note": ""
+           },
+      {
+        "image": [
+          "./img/new/Print/mhrm_look book_english.png",
+          "./img/new/Print/lookbook_spread09.jpg"
+          ],
+        "name": "Look Book, 2021 (English, Japanese, Chinese)",
+        "price": 0,
+        "description": "A look book of our company, activities, and approach featuring original photography  by Nick Ballón.",
+        "DON_reference_number": "",
+        "contact": "To order this item, contact Media at <a href=\"mailto:media@maharam.com\">media@maharam.com</a>",
+            "quantity": 1,
+            "Note": ""
+           
+      },
+      {
+        "image": [
+          "./img/new/Print/mailing_pouch_1.png",
+          "./img/new/Print/mailing_pouch_2.png"
+          ],
+        "name": "Mailing Pouch for Look Book, Notebooks, Calendar, etc.",
+        "price": 0,
+        "description": "Clear self-adhesive mailing label pouches that should be adhered on corresponding shipping box for calendars, notebook sets and books. ",
+        "DON_reference_number":"",
+        "contact": "To order this item, contact Media at <a href=\"mailto:media@maharam.com\">media@maharam.com</a>",
+            "quantity": 1,
+            "Note": "<a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/SiteAssets/SitePages/Stationary/Maharam_Stationery-Sample-Delivery-Guidelines.pdf#page=16/ target=blank>Link to guidelines</a>"
+           
+      },
+      {
+        "image": [
+          "./img/new/Print/PSmith20_books_001.jpg",
+          "./img/new/Print/PSmith20_books_002.jpg",
+          "./img/new/Print/PSmith20_books_003.jpg",
+          "./img/new/Print/3 PSmith20_books.jpg",
+          "img/angle/psmithbook-2.jpg"
+          ],
+          "name": "20 Years of Paul Smith and Maharam",
+          "price": 0,
+          "description": "This book highlights our studios’ shared commitment to design and long-term exploration of traditional motifs reimagined through color, pattern, and scale. Three randomized cover variations.",
+          "DON_reference_number": "",
+          "contact": "To order this item, contact Media at <a href=\"mailto:media@maharam.com\">media@maharam.com</a>",
+          "quantity": 1,
+          "Note": ""
+      },
+
+      {
+        "image": [
+          "./img/new/Print/Bertjan Pot.png"
+          ],
+          "name": "Bertjan Pot",
+          "price": 0,
+          "description": "Sales tool celebrating the work of Bertjan Pot which includes an interview between Marco Velardi and Bertjan Pot and with photography by Nick Ballón.",
+          "DON_reference_number": "",
+          "contact": "To order this item, contact Media at <a href=\"mailto:media@maharam.com\">media@maharam.com</a>",
+          "quantity": 1,
+          "Note": ""
+      },
+
+      {
+        "image": [
+          "./img/new/coming-soon.png"
+          ],
+        "name": "Repeat by Hella Jongerius",
+        "price": 0,
+        "description": "A book documenting the process around Repeat by Hella Jongerius and Maharam's first textile collaboration with Hella Jongerius. ",
+        "DON_reference_number": "",
+        "contact": "To order this item, contact Media at <a href=\"mailto:media@maharam.com\">media@maharam.com</a>",
+        "quantity": 1,
+        "Note": ""
+           
+      },
+      {
+        "image": [
+          "./img/new/Print/60_60_book.png",
+          "./img/new/Print/60_60_mailer.png"
+          ],
+        "name": "60 60",
+        "price": 1,
+        "description": "A book celebrating Artek and Maharam's ongoing exploration of textile application on the Stool 60 by Alvar Aalto.",
+        "DON_reference_number":"",
+        "contact": "To order this item, contact Media at <a href=\"mailto:media@maharam.com\">media@maharam.com</a>",
+        "quantity": 1,
+        "Note": ""
+           
+      },
+
+      {
+        "image": [
+          "./img/new/Print/Book Shipping Box.jpg"
+          ],
+        "name": "Book Shipping Box",
+        "price": 0,
+        "description": "Shipping box for <em>60 60</em>, Bertjan Pot, and The Nick Cave Collection.",
+        "DON_reference_number": [
+          {"variation": "Select an option", "value": "J/000001"}],
+        "contact": "",
+        "quantity": 1,
+        "Note": "Sample Order Entry in DON"
+           
+      },
+
+      {
+        "image": [
+          "./img/new/Print/the archytypes.png",
+          "./img/new/Print/The-Archetypes_01.jpg",
+          "./img/new/Print/The-Archetypes_02.jpg",
+          "./img/new/Print/The-Archetypes_03.jpg",
+          "./img/new/Print/The-Archetypes_04.jpg"
+          ],
+        "name": "The Archetypes",
+        "price": 0,
+        "description": "A set of twelve 15\" x 22.75\" newsprint posters, each features a single character named for Swiss psychoanalyst Carl Jung's twelve archetypes of personality and incorporates Maharam textiles.",
+        "DON_reference_number": "",
+        "contact": "To order this item, contact Media at <a href=\"mailto:media@maharam.com\">media@maharam.com</a>",
+        "quantity": 1,
+        "Note": ""
+           
+      },
+
+      {
+        "image": [
+          "./img/new/Print/SK posters_a.png",
+          "./img/new/Print/SK posters_b.png"
+          ],
+        "name": "Sonnhild Kestler Poster Set",
+        "price": 1,
+        "description": "A series of poster sets including four original designs and an in-depth process booklet featuring photography by Nick Ballón. Three randomized cover variations.",
+        "DON_reference_number": "",
+        "contact": "To order this item, contact Media at <a href=\"mailto:media@maharam.com\">media@maharam.com</a>",
+        "quantity": 1,
+        "Note": ""
+           
+      },
+
+      {
+        "image": [
+          "./img/new/Print/Maharam_notebook_801540_002_rust_angle.jpg",
+          "./img/new/Print/Maharam_notebook_801540_008_black_angle.jpg",
+          "./img/new/Print/Maharam_notebook_801540_011_terracotta_angle.jpg",
+          "./img/new/Print/Maharam_notebook_801540_012_apricot_angle.jpg",
+          "./img/new/Print/Maharam_notebook_801540_013_ivory_angle.jpg",
+          "./img/new/Print/Maharam_notebook_801540_014_chalk_angle.jpg",
+          "./img/new/Print/800991001_b-2.jpg"
+          
+          ],
+        "name": "Notebook",
+        "price": 2,
+        "description": "Single, cloth-bound notebook with perforated micro-grid paper. Forty-eight sheets.",
+        "DON_reference_number":[ {"variation": "Select an option", "value": ""},
+        {"variation": "002 Rust", "value": "801013/002"},
+        {"variation": "008 Black", "value": "801013/008"},
+        {"variation": "009 Smoke", "value": "801013/009"},
+        {"variation": "010 Cornflower", "value": "801013/010"},
+        {"variation": "011 Terracotta", "value": "801013/011"},
+        {"variation": "013 Ivory", "value": "801013/013"},
+        {"variation": "014 Chalk", "value": "801013/014"}],
+        "contact": "",
+        "quantity": 1,
+        "Note": "Sales Order Entry in DON"
+      },
+
+      {
+        "image": [
+          "./img/new/Print/Maharam_notebook_801540_103_angle.jpg",
+          "./img/new/Print/Maharam_notebook_801540_103_b.jpg",
+          "./img/new/Print/Maharam_notebook_801540_104_angle.jpg",
+          "./img/new/Print/Maharam_notebook_801540_104_b.jpg"
+          ],
+        "name": "Notebook Set",
+        "price": 0,
+        "description": "Set of three, cloth-bound notebooks with perforated micro-grid paper. Forty-eight sheets each.",
+        "DON_reference_number": [
+          {"variation": "Select an option", "value": ""},
+          {"variation": "003 Terracotta, Ivory, Apricot" , "value": "800991/003"},
+          {"variation": "004 Currant, Chalk, Sky", "value": "800991/004"}
+            ],
+            "contact": "",
+            "quantity": 1,
+            "Note": "Sales Order Entry in DON"
+           
+      },
+
+      {
+        "image": [
+         "./img/new/Print/Memory 2_front.png",
+          "./img/new/Print/memorytwo-2-expanded.png"
+          ],
+        "name": "Memory Two",
+        "price": 1,
+        "description": "Two sets of thirty-six cards interpreting Maharam Digital Projects. Four randomized cover variations.",
+        "DON_reference_number": [
+          {"variation": "Select an option", "value": "801080/001"}],
+        "contact": "",
+        "quantity": 1,
+        "Note": "Sales Order Entry in DON"
+           
+      },
+      {
+        "image": [
+          "./img/new/Print/memory 3_front.png",
+          "./img/new/Print/memorythree-2-expanded.png"
+          ],
+        "name": "Memory Three",
+        "price": 1,
+        "description": "Two sets of thirty-six cards interpreting Maharam textiles. Four randomized cover variations.",
+        "DON_reference_number": [
+          {"variation": "Select an option", "value": "801081/001"}],
+        "contact": "",
+        "quantity": 1,
+        "Note": "Sales Order Entry in DON"
+           
+      }, 
+      
+      {
+        "image": [
+          "./img/new/Print/Calendar 2025.jpg"
+          ],
+        "name": "Calendar 2025",
+        "price": 1,
+        "description": "Cloth-bound weekly, monthly, and yearly agendas with lined note pages. Includes birthdates of architects and designers, moon phases, and major holidays. 132 sheets. Three randomized cover variations.",
+        "DON_reference_number": [
+          {"variation": "Select an option", "value": "Contact Media<br><a href=\"mailto:media@maharam.com\">media@maharam.com</a>"}],
+        "quantity": 1,
+        "Note": ""
+           
+      }, 
+      
+      
+      {
+        "image": [
+          "./img/new/coming-soon.png"
+          ],
+        "name": "Maharam Digital Projects Notecard Set",
+        "price": 1,
+        "description": "Sixteen cards with different Maharam Digital Projects visuals and eighteen envelopes. Paper-banded and packaged in a cardboard box. Includes jiffy envelope for hand delivery/shipping.",
+        "DON_reference_number": [
+          {"variation": "Select an option", "value": ""}],
+        "contact": "",
+        "quantity": "1 = 16 cards and 18 envelopes",
+        "Note": "This item will be available soon."
+           
+      },
+      {
+        "image": [
+          "./img/angle/irvingharper.jpg",
+          "./img/angle/sb.jpg"
+          ],
+        "category": "Print",
+        "name": "The Nick Cave Collection",
+        "price": 1,
+        "description": "This book celebrates Nick Cave’s collection with Knoll Textiles and shows insight into his creative process. Created by Bob Faust and Nick Cave. There are two versions of this book, one with a Big Floral Wrap cover and one without.",
+            "quantity": 1,
+            "DON_reference_number": [
+              {"variation": "Select an option", "value": ""},
+              {"variation": "Nick Cave Book", "value": "J500001"},
+              {"variation": "Nick Cave Book-Big Floral Wrap", "value": "J500002"}
+            ], 
+            "contact": "",
+            "Note": "Sample Order Entry in DON"
+      }
+    ]
+  }
