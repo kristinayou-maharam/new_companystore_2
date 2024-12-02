@@ -64,7 +64,11 @@
 
       {
         "image": [
-          "./img/new/Print/Bertjan Pot.png"
+          "./img/new/Print/Bertjan Pot.png",
+          "./img/new/Print/Bertjan-Pot_01.jpg",
+          "./img/new/Print/Bertjan-Pot_02.jpg",
+          "./img/new/Print/Bertjan-Pot_03.jpg",
+          "./img/new/Print/Bertjan-Pot_04.jpg"
           ],
           "category": "Print",
           "name": "Bertjan Pot",
@@ -869,7 +873,7 @@
       },
       {
         "image": [
-          "./img/new/coming-soon.png"
+          "./img/new/Stationery/Letterhead with Showroom Address_ROW.jpg"
           ],
         "category": "Stationery",
         "name": "Letterhead with Showroom Address (North America)",
@@ -882,7 +886,7 @@
       },
       {
         "image": [
-          "./img/new/Stationery/Envelope with Showroom Address_NA.jpg"
+           "./img/new/Stationery/Envenvelope with Showroom Address_ROW.jpg"
           ],
         "category": "Stationery",
         "name": "Envelope with Showroom Address (North America)",
@@ -923,7 +927,7 @@
       {
         "image": [
           "./img/new/Stationery/Mailing Label with Showroom Address.jpg",
-          "./img/new/Stationery/Large Kraft Envelope.jpg"
+          "./img/new/Stationery/Kraft-Envelope-Gusset_Label.jpg"
           ],
         "category": "Stationery",
         "name": "Mailing Label with Showroom Address",
@@ -937,10 +941,10 @@
 
       {
         "image": [
-          "./img/new/Stationery/Large Kraft Envelope.jpg"
+          "./img/new/Stationery/Kraft-Envelope-Gusset.jpg"
           ],
         "category": "Stationery",
-        "name": "Kraft Envelope",
+        "name": "Kraft Envelope with Gusset",
         "price": 0,
         "description": "Gusseted kraft envelopes for sending samples and printed matter by courier. ",
             "quantity": "1=100 envelopes",
@@ -952,7 +956,7 @@
       {
         "image": [
           "./img/new/Stationery/Mailing Label Sheet-01.jpg",
-          "./img/new/Stationery/Envelope with Showroom Address_NA.jpg",
+          "./img/new/Stationery/Kraft-Envelope_Label.jpg",
           "./img/new/Stationery/Mailing Label Sheet-03.jpg"
           ],
         "category": "Stationery",
@@ -968,10 +972,10 @@
 
       {
         "image": [
-          "./img/new/Stationery/Envelope with Showroom Address_NA.jpg"
+          "./img/new/Stationery/Kraft-Envelope.jpg"
           ],
         "category": "Stationery",
-        "name": "Brown Envelope",
+        "name": "Kraft Envelope",
         "price": 0,
         "description": "7.5\" x 3.75\" in kraft envelopes used for annoucements, invitations, holiday cards and notecards.",
             "quantity": "1 = 1 box of 500 envelopes",
