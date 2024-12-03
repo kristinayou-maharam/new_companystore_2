@@ -123,7 +123,7 @@
               {"variation": "Select an option", "value": "J/LBLHLD"}
                 ],
             "contact": "",
-            "Note": "<br>Sample Order Entry in DON"
+            "Note": "Sample Order Entry in DON"
       },
       {
         "image": [
@@ -238,7 +238,7 @@
               {"variation": "Select an option", "value": "B/LABELL"}
                 ],
             "contact": "",
-            "Note": "<br>Sample Order Entry in DON"
+            "Note": "Sample Order Entry in DON"
       },
       {
         "image": [
@@ -368,7 +368,7 @@
               {"variation": "Select an option", "value": "B/EDLBOX"}
                 ],
             "contact": "",
-           "Note": "<br>Sample Order Entry in DON<br><br><a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-ProductManagement/General%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FMHRM%2DProductManagement%2FGeneral%20Documents%2FEdelman%20Box%20Contents%2Epdf&parent=%2Fsites%2FMHRM%2DProductManagement%2FGeneral%20Documents target=blank>Link to Box Set Contents</a>"
+           "Note": "Sample Order Entry in DON<br><br><a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-ProductManagement/General%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FMHRM%2DProductManagement%2FGeneral%20Documents%2FEdelman%20Box%20Contents%2Epdf&parent=%2Fsites%2FMHRM%2DProductManagement%2FGeneral%20Documents target=blank>Link to Box Set Contents</a>"
     
       }
     ]
