@@ -12,7 +12,7 @@
               {"variation": "Select an option", "value": "B/002027"}
                 ],
             "contact": "",
-            "Note": "Sample Order Entry in DON"
+            "Note": "Sample order entry in DON"
       },
       {
         "image": [
@@ -28,7 +28,7 @@
               {"variation": "Panel 2", "value": "B/002014"}
                 ],
             "contact": "",
-            "Note": "Sample Order Entry in DON"
+            "Note": "Sample order entry in DON"
       },
       {
         "image": [
@@ -45,7 +45,7 @@
             ],
           "contact": "",
             "quantity": 1,
-            "Note": "Sample Order Entry in DON"
+            "Note": "Sample order entry in DON"
       },
       {
         "image": [
@@ -72,7 +72,7 @@
             ],
           "contact": "",
             "quantity": 1,
-            "Note": "Sample Order Entry in DON"
+            "Note": "Sample order entry in DON"
       },
       {
         "image": [
@@ -93,7 +93,7 @@
             ],
           "contact": "",
             "quantity": 1,
-            "Note": "Sample Order Entry in DON"
+            "Note": "Sample order entry in DON"
       },
       {
         "image": [
@@ -109,7 +109,7 @@
             ],
           "contact": "",
             "quantity": 1,
-            "Note": "Sample Order Entry in DON"
+            "Note": "Sample order entry in DON"
       },
       {
         "image": [
@@ -117,69 +117,69 @@
           ],
         "name": "Maharam Binder Label Holder",
         "price": 0,
-        "description": "",
+        "description": "Label holder for Maharam binder.",
             "quantity": 4,
             "DON_reference_number": [
               {"variation": "Select an option", "value": "J/LBLHLD"}
                 ],
             "contact": "",
-            "Note": "Sample Order Entry in DON"
+            "Note": "Sample order entry in DON"
       },
       {
         "image": [
           "./img/new/Sampling/Maharam Binder Label Solid_Texture.jpg"
           ],
-        "name": "Maharam Binder Label \"Solid/Texture\"",
+        "name": "Maharam Binder Solid/Texture Label",
         "price": 0,
-        "description": "",
+        "description": "Label holder for Maharam binder.",
             "quantity": 1,
             "DON_reference_number": [
               {"variation": "Select an option", "value": "J/LBLSTX"}
                 ],
             "contact": "",
-            "Note": "Sample Order Entry in DON"
+            "Note": "Sample order entry in DON"
       },
       {
         "image": [
           "./img/new/Sampling/Maharam Binder Label Performance Woven.jpg"
           ],
-        "name": "Maharam Binder Label \"Performance Woven\"",
+        "name": "Maharam Binder Performance Woven Label",
         "price": 0,
-        "description": "",
+        "description": "Label holder for Maharam binder.",
             "quantity": 1,
             "DON_reference_number": [
               {"variation": "Select an option", "value": "J/LBLPWV"}
                 ],
             "contact": "",
-            "Note": "Sample Order Entry in DON"
+            "Note": "Sample order entry in DON"
       },
       {
         "image": [
           "./img/new/Sampling/Maharam Binder Label Nonwoven.jpg"
           ],
-        "name": "Maharam Binder Label \"Nonwoven\"",
+        "name": "Maharam Binder Nonwoven Label",
         "price": 0,
-        "description": "",
+        "description": "Label holder for Maharam binder.",
             "quantity": 1,
             "DON_reference_number": [
               {"variation": "Select an option", "value": "J/LBLNWV"}
                 ],
             "contact": "",
-            "Note": "Sample Order Entry in DON"
+            "Note": "Sample order entry in DON"
       },
       {
         "image": [
           "./img/new/Sampling/Maharam Binder Label Natural.jpg"
           ],
-        "name": "Maharam Binder Label \"Natural\"",
+        "name": "Maharam Binder Natural Label",
         "price": 0,
-        "description": "",
+        "description": "Label holder for Maharam binder.",
             "quantity": 1,
             "DON_reference_number": [
               {"variation": "Select an option", "value": "J/LBLNAT"}
                 ],
             "contact": "",
-            "Note": "Sample Order Entry in DON"
+            "Note": "Sample order entry in DON"
       },
       {
         "image": [
@@ -195,22 +195,22 @@
               {"variation": "International", "value": "B/FLTBIN"}
                 ],
             "contact": "",
-            "Note": "Sample Order Entry in DON"
+            "Note": "Sample order entry in DON"
       },
 
       {
         "image": [
          "./img/new/Sampling/Maharam Memo Bin Label All Categories.jpg"
           ],
-        "name": "Maharam Memo Bin Label All Categories",
+        "name": "Maharam Memo Bin All Categories Label",
         "price": 0,
-        "description": "Label sheet for Maharam memo bin kit includes all categories.",
+        "description": "Label sheet for Maharam memo bin.",
             "quantity": 1,
             "DON_reference_number": [
               {"variation": "Select an option", "value": "B/LABELS"}
                 ],
             "contact": "",
-            "Note": "Sample Order Entry in DON"
+            "Note": "Sample order entry in DON"
       },
       {
         "image": [
@@ -224,7 +224,7 @@
               {"variation": "Select an option", "value": "B/LABEL2"}
                 ],
             "contact": "",
-            "Note": "Sample Order Entry in DON"
+            "Note": "Sample order entry in DON"
       },
       {
         "image": [
@@ -238,7 +238,7 @@
               {"variation": "Select an option", "value": "B/LABELL"}
                 ],
             "contact": "",
-            "Note": "Sample Order Entry in DON"
+            "Note": "Sample order entry in DON"
       },
       {
         "image": [
@@ -368,7 +368,7 @@
               {"variation": "Select an option", "value": "B/EDLBOX"}
                 ],
             "contact": "",
-           "Note": "Sample Order Entry in DON<br><br><a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-ProductManagement/General%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FMHRM%2DProductManagement%2FGeneral%20Documents%2FEdelman%20Box%20Contents%2Epdf&parent=%2Fsites%2FMHRM%2DProductManagement%2FGeneral%20Documents target=blank>Link to Box Set Contents</a>"
+           "Note": "Sample order entry in DON<br><br><a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-ProductManagement/General%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FMHRM%2DProductManagement%2FGeneral%20Documents%2FEdelman%20Box%20Contents%2Epdf&parent=%2Fsites%2FMHRM%2DProductManagement%2FGeneral%20Documents target=blank>Link to Box Set Contents</a>"
     
       }
     ]

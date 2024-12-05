@@ -110,12 +110,12 @@
           ],
         "name": "Book Shipping Box",
         "price": 0,
-        "description": "Shipping box for <em>60 60</em>, Bertjan Pot, and The Nick Cave Collection.",
+        "description": "Shipping box for <em>60 60</em> and Bertjan Pot books.",
         "DON_reference_number": [
           {"variation": "Select an option", "value": "J/000001"}],
         "contact": "",
         "quantity": 1,
-        "Note": "Sample Order Entry in DON"
+        "Note": "Sample order entry in DON"
            
       },
 
@@ -176,7 +176,7 @@
         {"variation": "014 Chalk", "value": "801013/014"}],
         "contact": "",
         "quantity": 1,
-        "Note": "Sales Order Entry in DON"
+        "Note": "Sales order entry in DON"
       },
 
       {
@@ -196,7 +196,7 @@
             ],
             "contact": "",
             "quantity": 1,
-            "Note": "Sales Order Entry in DON"
+            "Note": "Sales order entry in DON"
            
       },
 
@@ -212,7 +212,7 @@
           {"variation": "Select an option", "value": "801080/001"}],
         "contact": "",
         "quantity": 1,
-        "Note": "Sales Order Entry in DON"
+        "Note": "Sales order entry in DON"
            
       },
       {
@@ -227,7 +227,7 @@
           {"variation": "Select an option", "value": "801081/001"}],
         "contact": "",
         "quantity": 1,
-        "Note": "Sales Order Entry in DON"
+        "Note": "Sales order entry in DON"
            
       }, 
       

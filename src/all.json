@@ -118,12 +118,12 @@
         "category": "Print",
         "name": "Book Shipping Box",
         "price": 0,
-        "description": "Shipping box for <em>60 60</em>, Bertjan Pot, and The Nick Cave Collection.",
+        "description": "Shipping box for <em>60 60</em> and Bertjan Pot books.",
         "DON_reference_number": [
           {"variation": "Select an option", "value": "J/000001"}],
         "contact": "",
         "quantity": 1,
-        "Note": "Sample Order Entry in DON"
+        "Note": "Sample order entry in DON"
            
       },
 
@@ -186,7 +186,7 @@
         {"variation": "014 Chalk", "value": "801013/014"}],
         "contact": "",
         "quantity": 1,
-        "Note": "Sales Order Entry in DON"
+        "Note": "Sales order entry in DON"
       },
 
       {
@@ -207,7 +207,7 @@
             ],
           "contact": "",
             "quantity": 1,
-            "Note": "Sales Order Entry in DON"
+            "Note": "Sales order entry in DON"
            
       },
 
@@ -224,7 +224,7 @@
           {"variation": "Select an option", "value": "801080/001"}],
         "contact": "",
         "quantity": 1,
-        "Note": "Sales Order Entry in DON"
+        "Note": "Sales order entry in DON"
            
       },
       {
@@ -240,7 +240,7 @@
           {"variation": "Select an option", "value": "801081/001"}],
         "contact": "",
         "quantity": 1,
-        "Note": "Sales Order Entry in DON"
+        "Note": "Sales order entry in DON"
            
       }, 
       
@@ -287,7 +287,7 @@
         "DON_reference_number": [
           {"variation": "Select an option", "value": "J/MAHBAG"}],
         "contact": "",
-        "Note": "Sample Order Entry in DON<br><a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/SiteAssets/SitePages/Stationary/Maharam_Stationery-Sample-Delivery-Guidelines.pdf#page=13/ target=blank>Link to guidelines</a>"
+        "Note": "Sample order entry in DON<br><a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/SiteAssets/SitePages/Stationary/Maharam_Stationery-Sample-Delivery-Guidelines.pdf#page=13/ target=blank>Link to guidelines</a>"
       },
       {
         "image": [
@@ -302,7 +302,7 @@
         "DON_reference_number": [
           {"variation": "Select an option", "value": "J/BAGLBL"}],
         "contact": "",
-        "Note": "Sample Order Entry in DON<br><br>Bag label template must be downloaded from Intranet to correctly print on label.<br><br><a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/:w:/r/sites/MHRM-Home/_layouts/15/Doc.aspx?sourcedoc=%7B95C2C675-DFF6-4FE4-B52D-C1A648E86757%7D&file=maharam_label-kraft-bag.docx&action=default&mobileredirect=true target=blank>Link to template</a><br><a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/SiteAssets/SitePages/Stationary/Maharam_Stationery-Sample-Delivery-Guidelines.pdf#page=13/ target=blank>Link to guidelines</a>"
+        "Note": "Sample order entry in DON<br><br>Bag label template must be downloaded from Intranet to correctly print on label.<br><br><a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/:w:/r/sites/MHRM-Home/_layouts/15/Doc.aspx?sourcedoc=%7B95C2C675-DFF6-4FE4-B52D-C1A648E86757%7D&file=maharam_label-kraft-bag.docx&action=default&mobileredirect=true target=blank>Link to template</a><br><a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/SiteAssets/SitePages/Stationary/Maharam_Stationery-Sample-Delivery-Guidelines.pdf#page=13/ target=blank>Link to guidelines</a>"
       },
       {
         "image": [
@@ -317,7 +317,7 @@
         "DON_reference_number": [
           {"variation": "Select an option", "value": "J/DISPLG"}],
         "contact": "",
-        "Note": "Sample Order Entry in DON<br><a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/Procedures/Forms/AllItems.aspx?id=%2Fsites%2FMHRM%2DHome%2FProcedures%2FPM%20Procedures%2Fdisplay%5Fboard%5Fguidelines%2Epdf&parent=%2Fsites%2FMHRM%2DHome%2FProcedures%2FPM%20Procedures target=blank>Link to guidelines</a>"
+        "Note": "Sample order entry in DON<br><a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/Procedures/Forms/AllItems.aspx?id=%2Fsites%2FMHRM%2DHome%2FProcedures%2FPM%20Procedures%2Fdisplay%5Fboard%5Fguidelines%2Epdf&parent=%2Fsites%2FMHRM%2DHome%2FProcedures%2FPM%20Procedures target=blank>Link to guidelines</a>"
       },
   
       {
@@ -332,7 +332,7 @@
               "DON_reference_number": [
                 {"variation": "Select an option", "value": "J/DISPSM"}],
               "contact": "",
-              "Note": "Sample Order Entry in DON<br><a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/Procedures/Forms/AllItems.aspx?id=%2Fsites%2FMHRM%2DHome%2FProcedures%2FPM%20Procedures%2Fdisplay%5Fboard%5Fguidelines%2Epdf&parent=%2Fsites%2FMHRM%2DHome%2FProcedures%2FPM%20Procedures target=blank>Link to guidelines</a>"
+              "Note": "Sample order entry in DON<br><a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/Procedures/Forms/AllItems.aspx?id=%2Fsites%2FMHRM%2DHome%2FProcedures%2FPM%20Procedures%2Fdisplay%5Fboard%5Fguidelines%2Epdf&parent=%2Fsites%2FMHRM%2DHome%2FProcedures%2FPM%20Procedures target=blank>Link to guidelines</a>"
       },
   
       {
@@ -347,7 +347,7 @@
         "DON_reference_number": [
           {"variation": "Select an option", "value": "J/DISPTP"}],
         "contact": "",
-        "Note": "Sample Order Entry in DON<br><a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/Procedures/Forms/AllItems.aspx?id=%2Fsites%2FMHRM%2DHome%2FProcedures%2FPM%20Procedures%2Fdisplay%5Fboard%5Fguidelines%2Epdf&parent=%2Fsites%2FMHRM%2DHome%2FProcedures%2FPM%20Procedures target=blank>Link to guidelines</a>"
+        "Note": "Sample order entry in DON<br><a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/Procedures/Forms/AllItems.aspx?id=%2Fsites%2FMHRM%2DHome%2FProcedures%2FPM%20Procedures%2Fdisplay%5Fboard%5Fguidelines%2Epdf&parent=%2Fsites%2FMHRM%2DHome%2FProcedures%2FPM%20Procedures target=blank>Link to guidelines</a>"
       },
   
       {
@@ -362,7 +362,7 @@
         "DON_reference_number": [
           {"variation": "Select an option", "value": "J/LTHCOR"}],
         "contact": "",
-        "Note": "Sample Order Entry in DON<br><a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-ProductManagement/General%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FMHRM-ProductManagement%2FGeneral%20Documents%2Fcustom_leather_cord.pdf&parent=%2Fsites%2FMHRM-ProductManagement%2FGeneral%20Documents target=blank>Link to guidelines</a>"
+        "Note": "Sample order entry in DON<br><a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-ProductManagement/General%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FMHRM-ProductManagement%2FGeneral%20Documents%2Fcustom_leather_cord.pdf&parent=%2Fsites%2FMHRM-ProductManagement%2FGeneral%20Documents target=blank>Link to guidelines</a>"
       },
   
       {
@@ -377,7 +377,7 @@
         "DON_reference_number": [
           {"variation": "Select an option", "value": "J/170072"}],
         "contact": "",
-        "Note": "Sample Order Entry in DON"
+        "Note": "Sample order entry in DON"
       },
       {
         "image": [
@@ -386,7 +386,7 @@
         "category": "Presentation",
         "name": "Sales Integration Announcement Card",
         "price": 0,
-        "description": "Flat cards designed to be displayed as part of presentations and leave-behinds. The flat card should not be written on or altered in any way. Three randomized cover variations.",
+        "description": "Flat cards designed to be displayed as part of presentations and leave-behinds. The flat card should not be written on or altered in any way. Five randomized cover variations.",
         "quantity": "1 = 50 cards",
         "DON_reference_number": "",
         "contact": "To order this item, contact Media at <a href=\"mailto:media@maharam.com\">media@maharam.com</a>",
@@ -421,7 +421,7 @@
         "DON_reference_number": [
           {"variation": "Select an option", "value": "J/100076"}],
         "contact": "",
-        "Note": "Sample Order Entry in DON"
+        "Note": "Sample order entry in DON"
       },
       {
         "image": [
@@ -435,7 +435,7 @@
         "DON_reference_number":[
                       {"variation": "Select an option", "value": "851020-003"}],
         "contact": "",
-        "Note": "Sales Order Entry in DON<br>This item requires manager approval."
+        "Note": "Sales order entry in DON<br>This item requires manager approval."
       },
       {
         "image": [
@@ -449,7 +449,7 @@
         "DON_reference_number": [
           {"variation": "Select an option", "value": "J/301003"}],
         "contact": "",
-        "Note": "Sample Order Entry in DON<br>This item requires manager approval."
+        "Note": "Sample order entry in DON<br>This item requires manager approval."
       },
       {
         "image": [
@@ -463,7 +463,7 @@
         "DON_reference_number":[
           {"variation": "Select an option", "value": "J/KNTBAG"}],
         "contact": "",
-        "Note": "Sample Order Entry in DON"
+        "Note": "Sample order entry in DON"
       },
       {
         "image": [
@@ -478,7 +478,7 @@
               {"variation": "Select an option", "value": "B/002027"}
                 ],
               "contact": "",
-            "Note": "Sample Order Entry in DON"
+            "Note": "Sample order entry in DON"
       },
       {
         "image": [
@@ -495,7 +495,7 @@
               {"variation": "Panel 2", "value": "B/002014"}
                 ],
               "contact": "",
-            "Note": "Sample Order Entry in DON"
+            "Note": "Sample order entry in DON"
       },
       {
         "image": [
@@ -513,7 +513,7 @@
             ],
           "contact": "",
             "quantity": 1,
-            "Note": "Sample Order Entry in DON"
+            "Note": "Sample order entry in DON"
       },
       {
         "image": [
@@ -541,7 +541,7 @@
             ],
           "contact": "",
             "quantity": 1,
-            "Note": "Sample Order Entry in DON"
+            "Note": "Sample order entry in DON"
       },
       {
         "image": [
@@ -563,7 +563,7 @@
             ],
             "contact": "",
             "quantity": 1,
-            "Note": "Sample Order Entry in DON"
+            "Note": "Sample order entry in DON"
       },
       {
         "image": [
@@ -580,7 +580,7 @@
             ],
             "contact": "",
             "quantity": 1,
-            "Note": "Sample Order Entry in DON"
+            "Note": "Sample order entry in DON"
       },
       {
         "image": [
@@ -589,73 +589,73 @@
         "category": "Sampling",
         "name": "Maharam Binder Label Holder",
         "price": 0,
-        "description": "",
+        "description": "Label holder for Maharam binder.",
             "quantity": 4,
             "DON_reference_number": [
               {"variation": "Select an option", "value": "J/LBLHLD"}
                 ],
             "contact": "",
-            "Note": "Sample Order Entry in DON"
+            "Note": "Sample order entry in DON"
       },
       {
         "image": [
          "./img/new/Sampling/Maharam Binder Label Solid_Texture.jpg"
           ],
         "category": "Sampling",
-        "name": "Maharam Binder Label \"Solid/Texture\"",
+        "name": "Maharam Binder Solid/Texture Label",
         "price": 0,
-        "description": "",
+        "description": "Label for Maharam binder.",
             "quantity": 1,
             "DON_reference_number": [
               {"variation": "Select an option", "value": "J/LBLSTX"}
                 ],
             "contact": "",
-            "Note": "Sample Order Entry in DON"
+            "Note": "Sample order entry in DON"
       },
       {
         "image": [
          "./img/new/Sampling/Maharam Binder Label Performance Woven.jpg"
           ],
         "category": "Sampling",
-        "name": "Maharam Binder Label \"Performance Woven\"",
+        "name": "Maharam Binder Performance Woven Label",
         "price": 0,
-        "description": "",
+        "description": "Label for Maharam binder.",
             "quantity": 1,
             "DON_reference_number": [
               {"variation": "Select an option", "value": "J/LBLPWV"}
                 ],
             "contact": "",
-            "Note": "Sample Order Entry in DON"
+            "Note": "Sample order entry in DON"
       },
       {
         "image": [
           "./img/new/Sampling/Maharam Binder Label Nonwoven.jpg"
           ],
         "category": "Sampling",
-        "name": "Maharam Binder Label \"Nonwoven\"",
+        "name": "Maharam Binder Nonwoven Label",
         "price": 0,
-        "description": "",
+        "description": "Label for Maharam binder.",
             "quantity": 1,
             "DON_reference_number": [
               {"variation": "Select an option", "value": "J/LBLNWV"}
                 ],
             "contact": "",
-            "Note": "Sample Order Entry in DON"
+            "Note": "Sample order entry in DON"
       },
       {
         "image": [
           "./img/new/Sampling/Maharam Binder Label Natural.jpg"
           ],
         "category": "Sampling",
-        "name": "Maharam Binder Label \"Natural\"",
+        "name": "Maharam Binder Natural Label",
         "price": 0,
-        "description": "",
+        "description": "Label for Maharam binder.",
             "quantity": 1,
             "DON_reference_number": [
               {"variation": "Select an option", "value": "J/LBLNAT"}
                 ],
             "contact": "",
-            "Note": "Sample Order Entry in DON"
+            "Note": "Sample order entry in DON"
       },
       {
         "image": [
@@ -672,22 +672,22 @@
               {"variation": "International", "value": "B/FLTBIN"}
                 ],
             "contact": "",
-            "Note": "Sample Order Entry in DON"
+            "Note": "Sample order entry in DON"
       },
       {
         "image": [
           "./img/new/Sampling/Maharam Memo Bin Label All Categories.jpg"
         ],
         "category": "Sampling",
-        "name": "Maharam Memo Bin Label All Categories",
+        "name": "Maharam Memo Bin All Categories Label",
         "price": 0,
-        "description": "Label sheet for Maharam memo bin kit includes all categories.",
+        "description": "Label sheet for Maharam memo bin.",
             "quantity": 1,
             "DON_reference_number": [
               {"variation": "Select an option", "value": "B/LABELS"}
                 ],
             "contact": "",
-            "Note": "Sample Order Entry in DON"
+            "Note": "Sample order entry in DON"
       },
       {
         "image": [
@@ -702,7 +702,7 @@
               {"variation": "Select an option", "value": "B/LABEL2"}
                 ],
             "contact": "",
-            "Note": "Sample Order Entry in DON"
+            "Note": "Sample order entry in DON"
       },
       {
         "image": [
@@ -717,7 +717,7 @@
               {"variation": "Select an option", "value": "B/LABELL"}
                 ],
             "contact": "",
-            "Note": "Sample Order Entry in DON"
+            "Note": "Sample order entry in DON"
       },
       {
         "image": [
@@ -857,7 +857,7 @@
               {"variation": "Select an option", "value": "B/EDLBOX"}
                 ],
             "contact": "",
-           "Note": "Sample Order Entry in DON<br><br><a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-ProductManagement/General%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FMHRM%2DProductManagement%2FGeneral%20Documents%2FEdelman%20Box%20Contents%2Epdf&parent=%2Fsites%2FMHRM%2DProductManagement%2FGeneral%20Documents target=blank>Link to Box Set Contents</a>"
+           "Note": "Sample order entry in DON<br><br><a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-ProductManagement/General%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FMHRM%2DProductManagement%2FGeneral%20Documents%2FEdelman%20Box%20Contents%2Epdf&parent=%2Fsites%2FMHRM%2DProductManagement%2FGeneral%20Documents target=blank>Link to Box Set Contents</a>"
       },
 
       {"image": [
@@ -952,7 +952,7 @@
             "DON_reference_number":  [
               {"variation": "Select an option", "value": "J/000003"}],
             "contact": "",
-            "Note": "Sample Order Entry in DON <br><a style=text-decoration:underline target=blank href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/SiteAssets/SitePages/Stationary/Maharam_Stationery-Sample-Delivery-Guidelines.pdf#page=12/>Link to guidelines</a>"
+            "Note": "Sample order entry in DON <br><a style=text-decoration:underline target=blank href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/SiteAssets/SitePages/Stationary/Maharam_Stationery-Sample-Delivery-Guidelines.pdf#page=12/>Link to guidelines</a>"
       },
       {
         "image": [
@@ -968,7 +968,7 @@
             "DON_reference_number":  [
               {"variation": "Select an option", "value": ""}],
             "contact": "",
-            "Note": "Sample Order Entry in DON<br><br>Mailing label template must be downloaded from Intranet to correctly print label.<br><br><a style=text-decoration:underline target=blank href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/SiteAssets/SitePages/Stationary/Maharam_Stationery-Sample-Delivery-Guidelines.pdf#page=9/>Link to guidelines</a>"
+            "Note": "Sample order entry in DON<br><br>Mailing label template must be downloaded from Intranet to correctly print label.<br><br><a style=text-decoration:underline target=blank href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/SiteAssets/SitePages/Stationary/Maharam_Stationery-Sample-Delivery-Guidelines.pdf#page=9/>Link to guidelines</a>"
       },
 
       {
@@ -981,7 +981,7 @@
         "description": "7.5\" x 3.75\" in kraft envelopes used for annoucements, invitations, holiday cards and notecards.",
             "quantity": "1 = 1 box of 500 envelopes",
             "DON_reference_number":  "",
-            "contact": "Sample Order Entry in DON<br>To order this item, contact Angela Guarino at <a href=\"mailto:aguarino@maharam.com\">aguarino@maharam.com</a>",
+            "contact": "Sample order entry in DON<br>To order this item, contact Angela Guarino at <a href=\"mailto:aguarino@maharam.com\">aguarino@maharam.com</a>",
             "Note": "<a style=text-decoration:underline target=blank href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/SiteAssets/SitePages/Stationary/Maharam_Stationery-Sample-Delivery-Guidelines.pdf#page=9/>Link to guidelines</a>"
       },
 
@@ -997,7 +997,7 @@
             "DON_reference_number":  [
               {"variation": "Select an option", "value": "J/RBRBND"}],
             "contact": "",
-            "Note": "Sample Order Entry in DON<br><a style=text-decoration:underline target=blank href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/SiteAssets/SitePages/Stationary/Maharam_Stationery-Sample-Delivery-Guidelines.pdf#page=12/>Link to guidelines</a>"
+            "Note": "Sample order entry in DON<br><a style=text-decoration:underline target=blank href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/SiteAssets/SitePages/Stationary/Maharam_Stationery-Sample-Delivery-Guidelines.pdf#page=12/>Link to guidelines</a>"
       },
 
       {
@@ -1043,7 +1043,7 @@
             "DON_reference_number": [
               {"variation": "Select an option", "value": "J/100006"}],
             "contact": "",
-            "Note": "Sample Order Entry in DON <br><a style=text-decoration:underline target=blank href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/SiteAssets/SitePages/Stationary/Maharam_Stationery-Sample-Delivery-Guidelines.pdf#page=11/>Link to guidelines</a>"
+            "Note": "Sample order entry in DON <br><a style=text-decoration:underline target=blank href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/SiteAssets/SitePages/Stationary/Maharam_Stationery-Sample-Delivery-Guidelines.pdf#page=11/>Link to guidelines</a>"
       },
 
       {
@@ -1059,7 +1059,7 @@
             "DON_reference_number": [
               {"variation": "Select an option", "value": "J/122203"}],
             "contact": "",
-            "Note": "Sample Order Entry in DON"
+            "Note": "Sample order entry in DON"
       },
       {
         "image": [
@@ -1073,7 +1073,7 @@
             "DON_reference_number": [
               {"variation": "Select an option", "value": "800990/001"}],
             "contact": "",
-            "Note": "Sales Order Entry in DON"
+            "Note": "Sales order entry in DON"
       },
       {
         "image": [
@@ -1115,7 +1115,7 @@
             "DON_reference_number": [
               {"variation": "Select an option", "value": "J/105000"}],
             "contact": "",
-            "Note": "Sample Order Entry in DON"
+            "Note": "Sample order entry in DON"
       },
 
       {
@@ -1130,7 +1130,7 @@
             "DON_reference_number": [
               {"variation": "Select an option", "value": "J/105001"}],
             "contact": "",
-            "Note": "Sample Order Entry in DON"
+            "Note": "Sample order entry in DON"
       },
       {
         "image": [
@@ -1144,7 +1144,7 @@
             "DON_reference_number": [
               {"variation": "Select an option", "value": "J/100068"}],
             "contact": "",
-            "Note": "Sample Order Entry in DON"
+            "Note": "Sample order entry in DON"
       },
 
       {
@@ -1159,7 +1159,7 @@
             "DON_reference_number": [
               {"variation": "Select an option", "value": "J/200006"}],
             "contact": "",
-            "Note": "Sample Order Entry in DON"
+            "Note": "Sample order entry in DON"
       },
 
       {
@@ -1276,7 +1276,7 @@
             "DON_reference_number":  [
               {"variation": "Select an option", "value": "801024/001"}],
             "contact": "",
-            "Note": "Sales Order Entry in DON"
+            "Note": "Sales order entry in DON"
       },
       {
         "image": [
@@ -1290,7 +1290,7 @@
             "DON_reference_number":  [
               {"variation": "Select an option", "value": "801293/001"}],
             "contact": "",
-            "Note": "Sales Order Entry in DON"
+            "Note": "Sales order entry in DON"
       },
 
       {
@@ -1305,7 +1305,7 @@
             "DON_reference_number":  [
               {"variation": "Select an option", "value": "801105/001"}], 
             "contact": "",
-            "Note": "Sales Order Entry in DON"
+            "Note": "Sales order entry in DON"
       },
       {
         "image": [
@@ -1319,7 +1319,7 @@
             "DON_reference_number": [
               {"variation": "Select an option", "value": "801294/001"}], 
             "contact": "",
-            "Note": "Sales Order Entry in DON"
+            "Note": "Sales order entry in DON"
       },
 
       {
@@ -1334,7 +1334,7 @@
             "DON_reference_number": [
               {"variation": "Select an option", "value": "001003/001"}],
             "contact": "",
-            "Note": "Sales Order Entry in DON"
+            "Note": "Sales order entry in DON"
       },
 
       {
@@ -1350,7 +1350,7 @@
             "DON_reference_number": [
               {"variation": "Select an option", "value": "801628/001"}],
             "contact": "",
-            "Note": "Sales Order Entry in DON"
+            "Note": "Sales order entry in DON"
       },
 
       {
@@ -1365,7 +1365,7 @@
             "DON_reference_number": [
               {"variation": "Select an option", "value": "801073/001"}], 
             "contact": "",
-            "Note": "Sales Order Entry in DON"
+            "Note": "Sales order entry in DON"
       },
 
       {
@@ -1380,7 +1380,7 @@
             "DON_reference_number": [
               {"variation": "Select an option", "value": "801058/001"}], 
             "contact": "",
-            "Note": "Sales Order Entry in DON"
+            "Note": "Sales order entry in DON"
       },
 
       {
@@ -1395,7 +1395,7 @@
             "DON_reference_number": [
               {"variation": "Select an option", "value": "801055-001"}], 
             "contact": "",
-            "Note": "Sales Order Entry in DON"
+            "Note": "Sales order entry in DON"
       },
       {
         "image": [
@@ -1425,7 +1425,7 @@
             "DON_reference_number": [
               {"variation": "Select an option", "value": "801699/01"}], 
             "contact": "",
-            "Note": "Sales Order Entry in DON"
+            "Note": "Sales order entry in DON"
       },
       {
         "image": [
@@ -1439,7 +1439,7 @@
             "DON_reference_number": [
               {"variation": "Select an option", "value": "801701/001"}], 
             "contact": "",
-            "Note": "Sales Order Entry in DON"
+            "Note": "Sales order entry in DON"
       }, 
       {
         "image": [
@@ -1453,7 +1453,7 @@
             "DON_reference_number": [
               {"variation": "Select an option", "value": "801643/001"}], 
             "contact": "",
-            "Note": "Sales Order Entry in DON"
+            "Note": "Sales order entry in DON"
       },
       {
         "image": [
@@ -1467,7 +1467,7 @@
             "DON_reference_number": [
               {"variation": "Select an option", "value": "801697/001"}], 
             "contact": "",
-            "Note": "Sales Order Entry in DON"
+            "Note": "Sales order entry in DON"
       },
       {
         "image": [
@@ -1481,7 +1481,7 @@
             "DON_reference_number": [
               {"variation": "Select an option", "value": "801698/001"}], 
             "contact": "",
-            "Note": "Sales Order Entry in DON"
+            "Note": "Sales order entry in DON"
       },
       {
         "image": [
@@ -1496,7 +1496,7 @@
               {"variation": "Select an option", "value": ""}
             ], 
             "contact": "",
-            "Note": "Sample Order Entry in DON"
+            "Note": "Sample order entry in DON"
       },
       {
         "image": [
@@ -1514,7 +1514,7 @@
               {"variation": "Nick Cave Book-Big Floral Wrap", "value": "J500002"}
             ], 
             "contact": "",
-            "Note": "Sample Order Entry in DON"
+            "Note": "Sample order entry in DON"
       },
       {
         "image": [
@@ -1530,7 +1530,7 @@
             ],
           "contact": "",
             "quantity": 1,
-            "Note": "Sales Order Entry in DON"
+            "Note": "Sales order entry in DON"
       },
       {
         "image": [
@@ -1546,7 +1546,7 @@
             ],
           "contact": "",
             "quantity": 1,
-            "Note": "Sales Order Entry in DON"
+            "Note": "Sales order entry in DON"
       },
       {
         "image": [
@@ -1562,7 +1562,7 @@
             ],
           "contact": "",
             "quantity": 1,
-            "Note": "Sales Order Entry in DON"
+            "Note": "Sales order entry in DON"
       },
       {
         "image": [
@@ -1580,7 +1580,7 @@
             ],
           "contact": "",
             "quantity": 1,
-            "Note": "Sales Order Entry in DON"
+            "Note": "Sales order entry in DON"
       },
       {
         "image": [
@@ -1596,7 +1596,7 @@
             ],
           "contact": "",
             "quantity": 1,
-            "Note": "Sales Order Entry in DON"
+            "Note": "Sales order entry in DON"
       },
       {
         "image": [
@@ -1615,7 +1615,7 @@
             ],
           "contact": "",
             "quantity": 1,
-            "Note": "Sales Order Entry in DON"
+            "Note": "Sales order entry in DON"
       },
       {
         "image": [
@@ -1633,7 +1633,7 @@
             ],
           "contact": "",
             "quantity": 1,
-            "Note": "Sales Order Entry in DON"
+            "Note": "Sales order entry in DON"
       },
       {
         "image": [
@@ -1651,7 +1651,7 @@
             ],
           "contact": "",
             "quantity": 1,
-            "Note": "Sales Order Entry in DON"
+            "Note": "Sales order entry in DON"
       }
     ]
         

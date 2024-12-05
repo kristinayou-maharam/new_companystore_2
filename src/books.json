@@ -37,7 +37,7 @@
             "DON_reference_number":  [
               {"variation": "Select an option", "value": "801024/001"}],
             "contact": "",
-            "Note": "Sales Order Entry in DON"
+            "Note": "Sales order entry in DON"
       },
       {
         "image": [
@@ -51,7 +51,7 @@
             "DON_reference_number":  [
               {"variation": "Select an option", "value": "801293/001"}],
             "contact": "",
-            "Note": "Sales Order Entry in DON"
+            "Note": "Sales order entry in DON"
       },
 
       {
@@ -65,7 +65,7 @@
             "DON_reference_number":  [
               {"variation": "Select an option", "value": "801105/001"}], 
             "contact": "",
-            "Note": "Sales Order Entry in DON"
+            "Note": "Sales order entry in DON"
       },
       {
         "image": [
@@ -78,7 +78,7 @@
             "DON_reference_number": [
               {"variation": "Select an option", "value": "801294/001"}], 
             "contact": "",
-            "Note": "Sales Order Entry in DON"
+            "Note": "Sales order entry in DON"
       },
 
       {
@@ -92,7 +92,7 @@
             "DON_reference_number": [
               {"variation": "Select an option", "value": "001003/001"}],
             "contact": "",
-            "Note": "Sales Order Entry in DON"
+            "Note": "Sales order entry in DON"
       },
 
       {
@@ -106,7 +106,7 @@
             "DON_reference_number": [
               {"variation": "Select an option", "value": "801628/001"}],
             "contact": "",
-            "Note": "Sales Order Entry in DON"
+            "Note": "Sales order entry in DON"
       },
 
       {
@@ -120,7 +120,7 @@
             "DON_reference_number": [
               {"variation": "Select an option", "value": "801073/001"}], 
             "contact": "",
-            "Note": "Sales Order Entry in DON"
+            "Note": "Sales order entry in DON"
       },
 
       {
@@ -134,7 +134,7 @@
             "DON_reference_number": [
               {"variation": "Select an option", "value": "801058/001"}], 
             "contact": "",
-            "Note": "Sales Order Entry in DON"
+            "Note": "Sales order entry in DON"
       },
 
       {
@@ -148,7 +148,7 @@
             "DON_reference_number": [
               {"variation": "Select an option", "value": "801055-001"}], 
             "contact": "",
-            "Note": "Sales Order Entry in DON"
+            "Note": "Sales order entry in DON"
       },
       {
         "image": [
@@ -175,7 +175,7 @@
             "DON_reference_number": [
               {"variation": "Select an option", "value": "801699/001"}], 
             "contact": "",
-            "Note":"Sales Order Entry in DON"
+            "Note":"Sales order entry in DON"
       },
       {
         "image": [
@@ -188,7 +188,7 @@
             "DON_reference_number": [
               {"variation": "Select an option", "value": "801701/001"}], 
             "contact": "",
-            "Note": "Sales Order Entry in DON"
+            "Note": "Sales order entry in DON"
       }, 
       {
         "image": [
@@ -201,7 +201,7 @@
             "DON_reference_number": [
               {"variation": "Select an option", "value": "801643/001"}], 
             "contact": "",
-            "Note": "Sales Order Entry in DON"
+            "Note": "Sales order entry in DON"
       },
       {
         "image": [
@@ -214,7 +214,7 @@
             "DON_reference_number": [
               {"variation": "Select an option", "value": "801697/001"}], 
             "contact": "",
-            "Note": "Sales Order Entry in DON"
+            "Note": "Sales order entry in DON"
       },
       {
         "image": [
@@ -227,7 +227,7 @@
             "DON_reference_number": [
               {"variation": "Select an option", "value": "801698/001"}], 
             "contact": "",
-            "Note": "Sales Order Entry in DON"
+            "Note": "Sales order entry in DON"
       },
       {
         "image": [
@@ -255,7 +255,7 @@
               {"variation": "Select an option", "value": ""}
             ], 
             "contact": "",
-            "Note": "Sample Order Entry in DON"
+            "Note": "Sample order entry in DON"
       },
       {
         "image": [
@@ -273,7 +273,7 @@
               {"variation": "Nick Cave Book-Big Floral Wrap", "value": "J500002"}
             ], 
             "contact": "",
-            "Note": "Sample Order Entry in DON"
+            "Note": "Sample order entry in DON"
       }
     ]
   }
