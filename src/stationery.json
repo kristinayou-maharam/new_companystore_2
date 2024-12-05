@@ -86,8 +86,7 @@
             "DON_reference_number":  [
               {"variation": "Select an option", "value": "J/000003"}],
             "contact": "",
-            "Note": "Sample Order Entry in DON <br><br><a style=text-decoration:underline target=blank href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/SiteAssets/SitePages/Stationary/Maharam_Stationery-Sample-Delivery-Guidelines.pdf#page=12/>Link to guidelines</a>"
-      },
+            "Note": "Sample order entry in DON."},
 
       {
         "image": [
@@ -102,7 +101,7 @@
             "DON_reference_number":  [
               {"variation": "Select an option", "value": ""}],
             "contact": "",
-            "Note": "Sample Order Entry in DON<br><br>Mailing label template must be downloaded from Intranet to correctly print label.<br><br><a style=text-decoration:underline target=blank href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/Word%20Templates/Forms/AllItems.aspx>Link to template</a><br><a style=text-decoration:underline target=blank href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/SiteAssets/SitePages/Stationary/Maharam_Stationery-Sample-Delivery-Guidelines.pdf#page=9/>Link to guidelines</a>"
+            "Note": "Sample order entry in DON<br><br>Mailing label template must be downloaded from Intranet to correctly print label.<br><br><a style=text-decoration:underline target=blank href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/Word%20Templates/Forms/AllItems.aspx>Link to template</a><br><a style=text-decoration:underline target=blank href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/SiteAssets/SitePages/Stationary/Maharam_Stationery-Sample-Delivery-Guidelines.pdf#page=9/>Link to guidelines</a>"
       },
 
       {
@@ -115,7 +114,7 @@
             "quantity": "1 = 1 box of 500 envelopes",
             "DON_reference_number": "",
             "contact": "To order this item, contact Angela Guarino at <a href=\"mailto:aguarino@maharam.com\">aguarino@maharam.com</a>",
-            "Note": "Sample Order Entry in DON<br><a style=text-decoration:underline target=blank href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/SiteAssets/SitePages/Stationary/Maharam_Stationery-Sample-Delivery-Guidelines.pdf#page=9/>Link to guidelines</a>"
+            "Note": "Sample order entry in DON<br><a style=text-decoration:underline target=blank href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/SiteAssets/SitePages/Stationary/Maharam_Stationery-Sample-Delivery-Guidelines.pdf#page=9/>Link to guidelines</a>"
       },
 
       {
@@ -129,7 +128,7 @@
             "DON_reference_number":  [
               {"variation": "Select an option", "value": "J/RBRBND"}],
               "contact": "",
-            "Note": "Sample Order Entry in DON<br><br><a style=text-decoration:underline target=blank href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/SiteAssets/SitePages/Stationary/Maharam_Stationery-Sample-Delivery-Guidelines.pdf#page=12/>Link to guidelines</a>"
+            "Note": "Sample order entry in DON<br><br><a style=text-decoration:underline target=blank href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/SiteAssets/SitePages/Stationary/Maharam_Stationery-Sample-Delivery-Guidelines.pdf#page=12/>Link to guidelines</a>"
       },
 
       {
@@ -199,7 +198,7 @@
             "DON_reference_number": [
               {"variation": "Select an option", "value": "J/100006"}],
             "contact": "",
-            "Note": "Sample Order Entry in DON <br><br><a style=text-decoration:underline target=blank href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/SiteAssets/SitePages/Stationary/Maharam_Stationery-Sample-Delivery-Guidelines.pdf#page=11/>Link to guidelines</a>"
+            "Note": "Sample order entry in DON <br><br><a style=text-decoration:underline target=blank href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/SiteAssets/SitePages/Stationary/Maharam_Stationery-Sample-Delivery-Guidelines.pdf#page=11/>Link to guidelines</a>"
       },
 
       {
@@ -214,7 +213,7 @@
             "DON_reference_number": [
               {"variation": "Select an option", "value": "J/122203"}],
             "contact": "",
-            "Note": "Sample Order Entry in DON"
+            "Note": "Sample order entry in DON"
       },
       {
         "image": [
@@ -227,7 +226,7 @@
             "DON_reference_number": [
               {"variation": "Select an option", "value": "800990/001"}],
             "contact": "",
-            "Note": "Sales Order Entry in DON"
+            "Note": "Sales order entry in DON"
       },
       {
         "image": [
@@ -266,7 +265,7 @@
             "DON_reference_number": [
               {"variation": "Select an option", "value": "J/105000"}],
             "contact": "",
-            "Note": "Sample Order Entry in DON"
+            "Note": "Sample order entry in DON"
       },
 
       {
@@ -280,7 +279,7 @@
             "DON_reference_number": [
               {"variation": "Select an option", "value": "J/105001"}],
             "contact": "",
-            "Note": "Sample Order Entry in DON"
+            "Note": "Sample order entry in DON"
       },
       {
         "image": [
@@ -293,7 +292,7 @@
             "DON_reference_number": [
               {"variation": "Select an option", "value": "J/100068"}],
             "contact": "",
-            "Note": "Sample Order Entry in DON"
+            "Note": "Sample order entry in DON"
       },
 
       {
@@ -307,7 +306,7 @@
             "DON_reference_number": [
               {"variation": "Select an option", "value": "J/200006"}],
             "contact": "",
-            "Note": "Sample Order Entry in DON"
+            "Note": "Sample order entry in DON"
       },
 
       {
