@@ -16,6 +16,14 @@ document.addEventListener("DOMContentLoaded", function () {
         <p>${stationery.description}</p>
         <p id="quantity-label">Quantity per Order: ${stationery.quantity}</p>
         `;
+
+
+        if (!stationery.DON_reference_number){
+          stationeryInfoHTML += `<style>#don { display: none; }</style>`;
+        } else{
+          stationeryInfoHTML += `<p id="don">Item code: </p><p id="selectedValue">${Object.values(stationery.DON_reference_number)[0].value}</p>`;
+        };
+        
     
         if (Object.keys(stationery.DON_reference_number).length > 1) {
           stationeryInfoHTML += `
@@ -34,9 +42,9 @@ document.addEventListener("DOMContentLoaded", function () {
         }
     
 
-        stationeryInfoHTML += `
-        <p id="don">Item Code: </p><p id="selectedValue"><strong>${Object.values(stationery.DON_reference_number)[0].value}</strong></p>
-        <p id="note" style="display: ${stationery.Note ? 'block' : 'none'}">Note: ${stationery.Note}</p>
+        allInfoHTML += `
+        <p id="don">Item Code: </p><p id="selectedValue"><strong>${Object.values(all.DON_reference_number)[0].value}</strong></p>
+        <p id="note" style="display: ${all.Note ? 'block' : 'none'}">Note: ${all.Note}</p>
         </div>
         `;
     
@@ -76,6 +84,8 @@ document.addEventListener("DOMContentLoaded", function () {
         <p>${neww.description}</p>
         <p id="quantity-label">Quantity per Order: ${neww.quantity}</p>
         `;
+
+        
     
         if (Object.keys(neww.DON_reference_number).length > 1) {
           newInfoHTML += `
@@ -259,6 +269,13 @@ document.addEventListener("DOMContentLoaded", function () {
         <p>${presentation.description}</p>
         <p>Quantity per Order: ${presentation.quantity}</p>
         `;
+
+        if (!presentation.DON_reference_number){
+          presentationInfoHTML += `<style>#don { display: none; }</style>`;
+        } else{
+          presentationInfoHTML += `<p id="don">Item code: </p><p id="selectedValue">${Object.values(presentation.DON_reference_number)[0].value}</p>`;
+        };
+    
     
         if (Object.keys(presentation.DON_reference_number).length > 1) {
           presentationInfoHTML += `

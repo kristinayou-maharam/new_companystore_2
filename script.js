@@ -23,7 +23,7 @@ document.addEventListener("DOMContentLoaded", function () {
         } else{
           stationeryInfoHTML += `<p id="don">Item code: </p><p id="selectedValue">${Object.values(stationery.DON_reference_number)[0].value}</p>`;
         };
-    
+
         if (Object.keys(stationery.DON_reference_number).length > 1) {
           stationeryInfoHTML += `
           <label for="variationDropdown"><p style="display:inline-block">Variation:</p></label>
@@ -291,6 +291,10 @@ document.addEventListener("DOMContentLoaded", function () {
         <p>${presentation.description}</p>
         <p id="quantity-label">Quantity per order: ${presentation.quantity}</p>
         `;
+
+        if (!presentation.DON_reference_number){
+          presentationInfoHTML += `<style>#don { display: none; } #selectedValue { display: none; }</style>`;}
+
     
         if (Object.keys(presentation.DON_reference_number).length > 1) {
           presentationInfoHTML += `
@@ -352,6 +356,9 @@ document.addEventListener("DOMContentLoaded", function () {
         <p>${sampling.description}</p>
         <p id="quantity-label">Quantity per order: ${sampling.quantity}</p>
         `;
+
+        if (!sampling.DON_reference_number){
+          samplingInfoHTML += `<style>#don { display: none; } #selectedValue { display: none; }</style>`;}
     
         if (Object.keys(sampling.DON_reference_number).length > 1) {
           samplingInfoHTML += `
