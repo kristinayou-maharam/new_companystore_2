@@ -253,9 +253,9 @@
         "price": 1,
         "description": "Cloth-bound weekly, monthly, and yearly agendas with lined note pages. Includes birthdates of architects and designers, moon phases, and major holidays. 132 sheets.Three randomized cover variations.",
         "DON_reference_number": "",
-        "contact": "To order this item, contact Media at <a href=\"mailto:media@maharam.com\">media@maharam.com</a>",
+        "contact": "",
         "quantity": 1,
-        "Note": ""
+        "Note": "This item is no longer available and will not be reordered."
            
       }, 
       
@@ -352,8 +352,8 @@
   
       {
         "image": [
-          "./img/new/Presentation/Leather Cord for Custom Corded Sets.jpg",
-          "./img/new/Presentation/Leather Cord for Custom Corded Sets_2.jpg"
+          "./img/new/Presentation/Leather Cord for Custom Corded Sets_2.jpg",
+          "./img/new/Presentation/Leather Cord for Custom Corded Sets.jpg"
           ],
         "category": "Presentation",
         "name": "Leather Cord for Custom Corded Sets",
@@ -1180,7 +1180,7 @@
         "description": "",
             "quantity": 0,
             "DON_reference_number": "",
-            "contact": "To order a new sales team announcement, send completed form to <a href=\"mailto: hross@maharam.com\">hross@maharam.com</a>",
+            "contact": "To order a new sales team announcement, send completed form to Heather Ross at<a href=\"mailto: hross@maharam.com\">hross@maharam.com</a>",
             "Note": "New Sales Team Announcement form must be downloaded from Intranet before proceeding to fill out information.<br><br><a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/Forms/Forms/AllItems.aspx?id=%2Fsites%2FMHRM-Home%2FForms%2FMaharam_announcement-request.pdf&parent=%2Fsites%2FMHRM-Home%2FForms target=blank>Link to form</a>"
       },
       {
