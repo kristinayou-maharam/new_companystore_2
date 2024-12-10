@@ -684,7 +684,7 @@
         "description": "Label sheet for Maharam memo bin.",
             "quantity": 1,
             "DON_reference_number": [
-              {"variation": "Select an option", "value": "B/LABELS"}
+              {"variation": "Select an option", "value": "B/LABEL2"}
                 ],
             "contact": "",
             "Note": "Sample order entry in DON"
