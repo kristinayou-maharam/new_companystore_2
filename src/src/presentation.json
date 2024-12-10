@@ -142,8 +142,7 @@
     },
     {
       "image": [
-        "img/angle/stool.jpg",
-        "img/angle/stool-2.jpg"
+        "./img/new/Presentation/Sales Integration Announcement Card.jpg"
         ],
       "name": "Sales Integration Announcement Card",
       "price": 0,
