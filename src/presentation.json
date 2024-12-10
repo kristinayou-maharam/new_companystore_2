@@ -35,7 +35,7 @@
       "name": "Display Board Large",
       "price": 0,
       "description": "The large 14\" x 20\" display board is meant for cross-category product groupings. Display boards can be mounted onto a pin board or laid on a flat surface. ",
-      "quantity": "1 = 10 boards",
+      "quantity": "10",
       "DON_reference_number": [
         {"variation": "Select an option", "value": "J/DISPLG"}],
       "contact": "",
@@ -49,7 +49,7 @@
       "name": "Display Board Small",
       "price": 0,
       "description": "The small 8.5\" x 8.5\" display card is a companion piece that serves as a branded tool for rotations of memos on a flat surface. ",
-            "quantity": "1 = 10 boards",
+            "quantity": "10",
             "DON_reference_number": [
               {"variation": "Select an option", "value": "J/DISPSM"}],
             "contact": "",
@@ -63,7 +63,7 @@
       "name": "Display Board T-Pins",
       "price": 0,
       "description": "",
-      "quantity": "1 = 100 T-Pins",
+      "quantity": "100",
       "DON_reference_number": [
         {"variation": "Select an option", "value": "J/DISPTP"}],
       "contact": "",
@@ -91,7 +91,7 @@
       "name": "Gift Wrap Set",
       "price": 0,
       "description": "Maharam Gift Wrap is printed with a large-scale grid pattern. The irregularity of the pattern ensures that, when wrapped, no two gifts look the same. Each package contains four sheets of two-sided paper, with a total of four color options.",
-      "quantity": "1 = 4 sheets",
+      "quantity": "4",
       "DON_reference_number": [
         {"variation": "Select an option", "value": "J/170072"}],
       "contact": "",
@@ -104,7 +104,7 @@
       "name": "Sales Integration Announcement Card",
       "price": 0,
       "description": "Flat cards designed to be displayed as part of presentations and leave-behinds. The flat card should not be written on or altered in any way. Five randomized cover variations.",
-      "quantity": "1 = 50 cards",
+      "quantity": "50",
       "DON_reference_number": "",
       "contact": "To order this item, contact Media at <a href=\"mailto:media@maharam.com\">media@maharam.com</a>",
       "Note": ""

@@ -91,7 +91,7 @@
       {
         "image": [
           "./img/new/Print/60_60_book.png",
-          "./img/new/Print/60-60_01.jpg",
+          "./img/new/Print/60-60_01_new.jpg",
           "./img/new/Print/60_60_mailer.png"
           ],
         "name": "60 60",
@@ -255,7 +255,7 @@
         "description": "Sixteen cards with different Maharam Digital Projects visuals and eighteen envelopes. Paper-banded and packaged in a cardboard box. Includes jiffy envelope for hand delivery/shipping.",
         "DON_reference_number": "",
         "contact": "",
-        "quantity": "1 = 16 cards and 18 envelopes",
+        "quantity": "16",
         "Note": "This item will be available soon."
            
       }

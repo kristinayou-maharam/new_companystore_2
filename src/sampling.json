@@ -188,7 +188,7 @@
         "name": "Maharam Memo Bin",
         "price": 0,
         "description": "For domestic shipments bins will ship assembled. For international shipments bins will ship flat packed and need to be assembled upon arrival.",
-            "quantity": "1 = four bins",
+            "quantity": "4",
             "DON_reference_number": [
               {"variation": "Select an option", "value": ""},
               {"variation": "Domestic", "value": "B/MEMBIN"},

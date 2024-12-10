@@ -10,7 +10,7 @@
           "DON_reference_number": "",
           "contact": "To order this item, contact Angela Guarino at <a href=\"mailto:aguarino@maharam.com\">aguarino@maharam.com</a>",
 
-          "Note": "Business card form must be downloaded from intranet before proceeding to fill out information. <br><br> <a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/Forms/Forms/AllItems.aspx?id=%2Fsites%2FMHRM%2DHome%2FForms%2FMaharam%5Fbusiness%2Dcard%2Drequest%2Epdf&parent=%2Fsites%2FMHRM%2DHome%2FForms target=blank>Link to form</a>"
+          "Note": "Business card form must be downloaded from Intranet before proceeding to fill out information. <br><br> <a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/Forms/Forms/AllItems.aspx?id=%2Fsites%2FMHRM%2DHome%2FForms%2FMaharam%5Fbusiness%2Dcard%2Drequest%2Epdf&parent=%2Fsites%2FMHRM%2DHome%2FForms target=blank>Link to form</a>"
       },
       {
         "image": [
@@ -18,7 +18,7 @@
           ], 
         "name": "Letterhead with Showroom Address",
         "price": 1,
-        "description": "Pre-printed letterhead with showroom address. Template must be downloaded from Intranet to correctly print label.",
+        "description": "Pre-printed letterhead with showroom address. Template must be downloaded from Intranet to correctly print letterhead.",
             "quantity": 0,
             "DON_reference_number": "",
             "contact": "To order this item, contact Angela Guarino at <a href=\"mailto:aguarino@maharam.com\">aguarino@maharam.com</a>",
@@ -30,7 +30,7 @@
           ],
         "name": "Envelope with Showroom Address",
         "price": 0,
-        "description": "Pre-printed envelope with showroom address.Template must be downloaded from Intranet to correctly print label.",
+        "description": "Pre-printed envelope with showroom address.Template must be downloaded from Intranet to correctly print envelope.",
             "quantity": 0,
             "DON_reference_number":  "",
             "contact": "To order this item, contact Angela Guarino at <a href=\"mailto:aguarino@maharam.com\">aguarino@maharam.com</a>",
@@ -57,7 +57,7 @@
         "name": "Large Kraft Envelope",
         "price": 0,
         "description": "Large kraft envelopes for mailing samples and printed matter.",
-            "quantity": "1=100 envelopes",
+            "quantity": "100",
             "DON_reference_number":  [
               {"variation": "Select an option", "value": "J/000003"}],
             "contact": "",
@@ -71,8 +71,8 @@
           ],
         "name": "Small Mailing Label Sheet",
         "price": 0,
-        "description": "Small mailing labels to be applied only to the small kraft envelope. One sheet includes sixteen self-adhesive labels. Template must be downloaded from Intranet to correctly print label.",
-            "quantity": "<br>1 = 1 pack of 250 sheets of labels",
+        "description": "Small mailing labels to be applied only to the small kraft envelope. One sheet includes sixteen self-adhesive labels. Template must be downloaded from Intranet to correctly print labels.",
+            "quantity": "250",
             "DON_reference_number":  [
               {"variation": "Select an option", "value": ""}],
             "contact": "",
@@ -86,7 +86,7 @@
         "name": "Small Kraft Envelope",
         "price": 0,
         "description": "Small kraft envelopes for mailing announcements, invitations, holiday cards, and notecards.",
-            "quantity": "1 = 1 box of 500 envelopes",
+            "quantity": "500",
             "DON_reference_number": "",
             "contact": "To order this item, contact Angela Guarino at <a href=\"mailto:aguarino@maharam.com\">aguarino@maharam.com</a>",
             "Note": "Sample order entry in DON<br><a style=text-decoration:underline target=blank href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/SiteAssets/SitePages/Stationary/Maharam_Stationery-Sample-Delivery-Guidelines.pdf#page=9/>Link to guidelines</a>"
@@ -99,7 +99,7 @@
         "name": "Rubber Bands",
         "price": 0,
         "description": "Maharam's rubber band should be used with two or more  gusseted kraft envelopes for delivery to a client. ",
-            "quantity": "1 = 25 rubber bands",
+            "quantity": "25",
             "DON_reference_number":  [
               {"variation": "Select an option", "value": "J/RBRBND"}],
               "contact": "",
@@ -169,7 +169,7 @@
         "name": "Corporate Folder",
         "price": 1,
         "description": "Corporate folders are designed for delivering flat printed matter that either cannot be provided digitally or calls for special attention. Examples include new hire documents and Maharam Digital Projects specification sheets.",
-            "quantity":"1 = 5 folders",
+            "quantity":"5",
             "DON_reference_number": [
               {"variation": "Select an option", "value": "J/100006"}],
             "contact": "",
@@ -250,7 +250,7 @@
         "name": "Knoll Textiles Staedtler Pencils",
         "price": 1,
         "description": "Pencils with Knoll Textiles logo.",
-            "quantity": "1 = 25 pencils",
+            "quantity": "25",
             "DON_reference_number": [
               {"variation": "Select an option", "value": "J/105001"}],
             "contact": "",
@@ -311,8 +311,8 @@
         "description": "",
             "quantity": 0,
             "DON_reference_number": "",
-            "contact": "To order this item, send completed form to <a href=\"mailto:invites@maharam.com\">invites@maharam.com</a>",
-            "Note": "Invitation form must be downloaded from intranet before proceeding to fill out information.<br><br><a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/Forms/Forms/AllItems.aspx?id=%2Fsites%2FMHRM-Home%2FForms%2FMaharam_invitation-request.pdf&parent=%2Fsites%2FMHRM-Home%2FForms target=blank>Link to form</a>"
+            "contact": "To request an evite, send completed form to <a href=\"mailto:invites@maharam.com\">invites@maharam.com</a>",
+            "Note": "Invitation request form must be downloaded from Intranet before proceeding to fill out information.<br><br><a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/Forms/Forms/AllItems.aspx?id=%2Fsites%2FMHRM-Home%2FForms%2FMaharam_invitation-request.pdf&parent=%2Fsites%2FMHRM-Home%2FForms target=blank>Link to form</a>"
       },
 
       {
@@ -324,21 +324,21 @@
         "description": "",
             "quantity": 0,
             "DON_reference_number": "",
-            "contact": "To order this item, send completed form to <a href=\"mailto:invites@maharam.com\">invites@maharam.com</a>",
-            "Note": "Invitation form must be downloaded from intranet before proceeding to fill out information. <br><br><a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/Forms/Forms/AllItems.aspx?id=%2Fsites%2FMHRM-Home%2FForms%2FMaharam_invitation-request.pdf&parent=%2Fsites%2FMHRM-Home%2FForms target=blank>Link to form</a>"
+            "contact": "To request a printed invitation, send completed form to <a href=\"mailto:invites@maharam.com\">invites@maharam.com</a>",
+            "Note": "Invitation request form must be downloaded from Intranet before proceeding to fill out information.<br><br><a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/Forms/Forms/AllItems.aspx?id=%2Fsites%2FMHRM-Home%2FForms%2FMaharam_invitation-request.pdf&parent=%2Fsites%2FMHRM-Home%2FForms target=blank>Link to form</a>"
       },
 
       {
         "image": [
           "./img/new/Stationery/new-sales-team-announcements.png"
           ],
-        "name": "New Sales Team Announcements",
+        "name": "New Sales Team Announcement",
         "price": 0,
         "description": "",
             "quantity": 0,
             "DON_reference_number": "",
-            "contact": "To order this item, send completed form to <a href=\"mailto:hross@maharam.com\">hross@maharam.com</a>",
-            "Note": "New Sales Team Announcement form must be downloaded from intranet before proceeding to fill out information.<br><br><a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/Forms/Forms/AllItems.aspx?id=%2Fsites%2FMHRM-Home%2FForms%2FMaharam_announcement-request.pdf&parent=%2Fsites%2FMHRM-Home%2FForms target=blank>Link to form</a>"
+            "contact": "To order a new sales team announcement, send completed form to <a href=\"mailto:hross@maharam.com\">hross@maharam.com</a>",
+            "Note": "New Sales Team Announcement form must be downloaded from Intranet before proceeding to fill out information.<br><br><a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/Forms/Forms/AllItems.aspx?id=%2Fsites%2FMHRM-Home%2FForms%2FMaharam_announcement-request.pdf&parent=%2Fsites%2FMHRM-Home%2FForms target=blank>Link to form</a>"
       },
       {
         "image": [
@@ -349,8 +349,8 @@
         "description": "",
             "quantity": 0,
             "DON_reference_number": "",
-            "contact": "To order this item, send completed form to <a href=\"mailto:logos@maharam.com\">logos@maharam.com</a>",
-            "Note": "Logo Request form must be downloaded from intranet before proceeding to fill out information.<br><br><a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/Forms/Forms/AllItems.aspx?id=%2Fsites%2FMHRM-Home%2FForms%2FMaharam_logo-request.pdf&parent=%2Fsites%2FMHRM-Home%2FForms target=blank>Link to form</a>"
+            "contact": "To request logo artwork, send completed form to <a href=\"mailto:logos@maharam.com\">logos@maharam.com</a>",
+            "Note": "Logo request form must be downloaded from Intranet before proceeding to fill out information.<br><br><a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/Forms/Forms/AllItems.aspx?id=%2Fsites%2FMHRM-Home%2FForms%2FMaharam_logo-request.pdf&parent=%2Fsites%2FMHRM-Home%2FForms target=blank>Link to form</a>"
       }
     ]
   }
