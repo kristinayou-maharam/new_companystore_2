@@ -277,7 +277,7 @@
       },
       {
         "image": [
-          "img/sg_24_tabletop_bags_flat_grey.png"
+          "img/new/Presentation/Maharam Shopping Bag_new.jpg"
           ],
         "category": "Presentation",
         "name": "Maharam Kraft Bag",
@@ -306,8 +306,8 @@
       },
       {
         "image": [
-          "img/new/Presentation/display-board-1.png",
-          "img/new/Presentation/display-board-2.png"
+          "img/new/Presentation/Display Board Large.jpg",
+          "img/new/Presentation/Display Board Large_2.jpg"
           ],
         "category": "Presentation",
         "name": "Display Board Large",
@@ -322,7 +322,7 @@
   
       {
         "image": [
-          "./img/new/coming-soon.png"
+          "./img/new/Presentation/Display Board Small.jpg"
           ],
         "category": "Presentation",
         "name": "Display Board Small",
@@ -352,7 +352,8 @@
   
       {
         "image": [
-          "./img/new/Presentation/Leather Cord for Custom Corded Sets.jpg"
+          "./img/new/Presentation/Leather Cord for Custom Corded Sets.jpg",
+          "./img/new/Presentation/Leather Cord for Custom Corded Sets_2.jpg"
           ],
         "category": "Presentation",
         "name": "Leather Cord for Custom Corded Sets",
@@ -367,7 +368,7 @@
   
       {
         "image": [
-          "./img/new/coming-soon.png"
+          "./img/new/Presentation/Gift Wrap Set.jpg"
           ],
         "category": "Presentation",
         "name": "Gift Wrap Set",
@@ -945,7 +946,8 @@
 
       {
         "image": [
-          "./img/sg_24_tabletop_rubberband_2_grey.png"
+          "./img/sg_24_tabletop_rubberband_2_grey.png",
+          "./img/new/Stationery/Kraft envelopw w rubberband.jpg"
           ],
         "category": "Stationery",
         "name": "Rubber Bands",
@@ -975,7 +977,7 @@
 
       {
         "image": [
-          "./img/new/coming-soon.png"
+          "./img/new/Stationery/Sample Request Form Pad.jpg"
           ],
         "category": "Stationery",
         "name": "Sample Request Form Pad",
@@ -1156,7 +1158,7 @@
 
       {
         "image": [
-          "./img/new/coming-soon.png"
+          "./img/new/Stationery/Printed Invites.jpg"
           ],
         "category": "Stationery",
         "name": "Printed Invites",

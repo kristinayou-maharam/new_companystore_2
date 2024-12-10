@@ -2,7 +2,7 @@
   "presentation": [
     {
       "image": [
-        "img/sg_24_tabletop_bags_flat_grey.png"
+        "img/new/Presentation/Maharam Shopping Bag_new.jpg"
         ],
       "name": "Maharam Kraft Bag",
       "price": 0,
@@ -29,8 +29,8 @@
     },
     {
       "image": [
-        "img/new/Presentation/display-board-1.png",
-        "img/new/Presentation/display-board-2.png"
+        "img/new/Presentation/Display Board Large.jpg",
+        "img/new/Presentation/Display Board Large_2.jpg"
         ],
       "name": "Display Board Large",
       "price": 0,
@@ -44,7 +44,7 @@
 
     {
       "image": [
-        "./img/new/coming-soon.png"
+        "./img/new/Presentation/Display Board Small.jpg"
         ],
       "name": "Display Board Small",
       "price": 0,
@@ -72,7 +72,9 @@
 
     {
       "image": [
-        "./img/new/Presentation/Leather Cord for Custom Corded Sets.jpg"
+        "./img/new/Presentation/Leather Cord for Custom Corded Sets.jpg",
+        "./img/new/Presentation/Leather Cord for Custom Corded Sets_2.jpg"
+        
         ],
       "name": "Leather Cord for Custom Corded Sets",
       "price": 0,
@@ -86,7 +88,7 @@
 
     {
       "image": [
-        "./img/new/coming-soon.png"
+        "./img/new/Presentation/Gift Wrap Set.jpg"
         ],
       "name": "Gift Wrap Set",
       "price": 0,
