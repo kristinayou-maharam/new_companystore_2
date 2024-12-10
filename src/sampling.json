@@ -214,20 +214,6 @@
       },
       {
         "image": [
-          "./img/new/coming-soon.png"
-          ],
-        "name": "Maharam Memo Bin Label \"Rugs\"",
-        "price": 0,
-        "description": "Label sheet for Maharam memo bin kit including rugs.",
-            "quantity": 1,
-            "DON_reference_number": [
-              {"variation": "Select an option", "value": "B/LABEL2"}
-                ],
-            "contact": "",
-            "Note": "Sample order entry in DON"
-      },
-      {
-        "image": [
           "./img/new/Sampling/Maharam Memo Bin Label _Leather_.jpg"
           ],
         "name": "Maharam Memo Bin Label \"Leather\"",

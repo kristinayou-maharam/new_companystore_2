@@ -280,7 +280,7 @@
           "img/sg_24_tabletop_bags_flat_grey.png"
           ],
         "category": "Presentation",
-        "name": "Maharam Shopping Bag",
+        "name": "Maharam Kraft Bag",
         "price": 0,
         "description": "Kraft bags are designed for showroom walk-in clients, or for delivering samples, printed matter and gifts in person. ",
         "quantity": 1,
@@ -295,7 +295,7 @@
         "./img/new/Presentation/Maharam Shopping Bag Label.jpg"
           ],
         "category": "Presentation",
-        "name": "Maharam Shopping Bag Label",
+        "name": "Maharam Kraft Bag Label",
         "price": 0,
         "description": "Label to affix to Kraft bags.",
         "quantity": 25,
@@ -372,7 +372,7 @@
         "category": "Presentation",
         "name": "Gift Wrap Set",
         "price": 0,
-        "description": "Maharam Gift Wrap is printed with a large-scale grid pattern. The irregularity of the pattern ensures that, when wrapped, no two gifts look the same. Each package contains four sheets of two-sided paper, with a total of four color options.",
+        "description": "Gift Wrap is printed with a large-scale grid pattern. The irregularity of the pattern ensures that, when wrapped, no two gifts look the same. Each package contains four sheets of two-sided paper, with a total of four color options.",
         "quantity": "4",
         "DON_reference_number": [
           {"variation": "Select an option", "value": "J/170072"}],
@@ -386,7 +386,7 @@
         "category": "Presentation",
         "name": "Sales Integration Announcement Card",
         "price": 0,
-        "description": "Flat cards designed to be displayed as part of presentations and leave-behinds. The flat card should not be written on or altered in any way. Five randomized cover variations.",
+        "description": "Flat cards designed to be displayed as part of presentations and leave-behinds. The flat card should not be written on or altered in any way. Random assortment of colors.",
         "quantity": "50",
         "DON_reference_number": "",
         "contact": "To order this item, contact Media at <a href=\"mailto:media@maharam.com\">media@maharam.com</a>",
@@ -401,7 +401,7 @@
         "category": "Presentation",
         "name": "Sales Integration Tent Card",
         "price": 0,
-        "description": "Tent cards designed to be displayed as part of presentations and leave behinds. Three randomized cover variations.",
+        "description": "Tent cards designed to be displayed as part of presentations and leave behinds. Random assortment of colors.",
         "quantity": 50,
         "DON_reference_number": "",
         "contact": "To order this item, contact Media at <a href=\"mailto:media@maharam.com\">media@maharam.com</a>",
@@ -691,25 +691,10 @@
       },
       {
         "image": [
-          "./img/new/coming-soon.png"
-          ],
-        "category": "Sampling",
-        "name": "Maharam Memo Bin Label \"Rugs\"",
-        "price": 0,
-        "description": "Label sheet for Maharam memo bin kit including rugs.",
-            "quantity": 1,
-            "DON_reference_number": [
-              {"variation": "Select an option", "value": "B/LABEL2"}
-                ],
-            "contact": "",
-            "Note": "Sample order entry in DON"
-      },
-      {
-        "image": [
           "./img/new/Sampling/Maharam Memo Bin Label _Leather_.jpg"
           ],
         "category": "Sampling",
-        "name": "Maharam Memo Bin Label \"Leather\"",
+        "name": "Maharam Memo Bin Leather Label",
         "price": 0,
         "description": "Label sheet for Maharam Leather bin.",
             "quantity": 1,
