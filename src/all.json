@@ -587,9 +587,9 @@
           "./img/new/Sampling/Maharam Binder Label Holder.jpg"
           ],
         "category": "Sampling",
-        "name": "Maharam Binder Label Holder",
+        "name": "Binder Label Holder",
         "price": 0,
-        "description": "Label holder for Maharam binder.",
+        "description": "Label holder for binder.",
             "quantity": 4,
             "DON_reference_number": [
               {"variation": "Select an option", "value": "J/LBLHLD"}
@@ -1331,7 +1331,7 @@
           "img/new/Books/Studio Job & The Graninger Museum.png"
           ],
         "category": "Books",
-        "name": "Studio Job & The Groninger Museum",
+        "name": "Studio Job & the Groninger Museum",
         "price": 1,
         "description": "The book traces a survey at the Groninger Museum in the Netherlands featuring ten years of work by Job Smeets and Nynke Tynagel, including the Bavaria Marquette series and Ruins on the end pages.",
             "quantity": 1,

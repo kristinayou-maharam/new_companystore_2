@@ -25,9 +25,9 @@ document.addEventListener("DOMContentLoaded", function () {
         };
 
         if (Object.keys(stationery.DON_reference_number).length > 1) {
-          stationeryInfoHTML += `
+          stationeryInfoHTML += `<div style="display=block;">
           <label for="variationDropdown"><p style="display:inline-block">Variation:</p></label>
-          <select id="variationDropdown">`;
+          <select id="variationDropdown"></div>`;
     
           Object.entries(stationery.DON_reference_number).forEach(([variation, value]) => {
             stationeryInfoHTML += `<option value="${value.value}">${value.variation}</option>`;
@@ -99,9 +99,9 @@ document.addEventListener("DOMContentLoaded", function () {
         };
     
         if (Object.keys(print.DON_reference_number).length > 1) {
-          printInfoHTML += `
+          printInfoHTML += `<div style="display=block;">
           <label for="variationDropdown"><p style="display:inline-block">Variation:</p></label>
-          <select id="variationDropdown">`;
+          <select id="variationDropdown"></div>`;
     
           Object.entries(print.DON_reference_number).forEach(([variation, value]) => {
             printInfoHTML += `<option value="${value.value}">${value.variation}</option>`;
@@ -163,9 +163,9 @@ document.addEventListener("DOMContentLoaded", function () {
         `;
     
         if (Object.keys(neww.DON_reference_number).length > 1) {
-          newInfoHTML += `
+          newInfoHTML += `<div style="display=block;">
           <label for="variationDropdown"><p style="display:inline-block">Variation:</p></label>
-          <select id="variationDropdown">`;
+          <select id="variationDropdown"></div>`;
     
           Object.entries(neww.DON_reference_number).forEach(([variation, value]) => {
             newInfoHTML += `<option value="${value.value}">${value.variation}</option>`;
@@ -226,9 +226,9 @@ document.addEventListener("DOMContentLoaded", function () {
         `;
     
         if (Object.keys(books.DON_reference_number).length > 1) {
-          booksInfoHTML += `
+          booksInfoHTML += `<div style="display=block;">
           <label for="variationDropdown"><p style="display:inline-block">Variation:</p></label>
-          <select id="variationDropdown">`;
+          <select id="variationDropdown"></div>`;
     
           Object.entries(books.DON_reference_number).forEach(([variation, value]) => {
             booksInfoHTML += `<option value="${value.value}">${value.variation}</option>`;
@@ -297,9 +297,9 @@ document.addEventListener("DOMContentLoaded", function () {
 
     
         if (Object.keys(presentation.DON_reference_number).length > 1) {
-          presentationInfoHTML += `
+          presentationInfoHTML += `<div style="display=block;">
           <label for="variationDropdown"><p style="display:inline-block">Variation:</p></label>
-          <select id="variationDropdown">`;
+          <select id="variationDropdown"></div>`;
     
           Object.entries(presentation.DON_reference_number).forEach(([variation, value]) => {
             presentationInfoHTML += `<option value="${value.value}">${value.variation}</option>`;
@@ -361,9 +361,9 @@ document.addEventListener("DOMContentLoaded", function () {
           samplingInfoHTML += `<style>#don { display: none; } #selectedValue { display: none; }</style>`;}
     
         if (Object.keys(sampling.DON_reference_number).length > 1) {
-          samplingInfoHTML += `
+          samplingInfoHTML += `<div style="display=block;">
           <label for="variationDropdown"><p style="display:inline-block">Variation:</p></label>
-          <select id="variationDropdown">`;
+          <select id="variationDropdown"></div>`;
     
           Object.entries(sampling.DON_reference_number).forEach(([variation, value]) => {
             samplingInfoHTML += `<option value="${value.value}">${value.variation}</option>`;
@@ -433,9 +433,9 @@ document.addEventListener("DOMContentLoaded", function () {
         };
     
         if (Object.keys(all.DON_reference_number).length > 1) {
-          allInfoHTML += `
+          allInfoHTML += `<div style="display=block;">
           <label for="variationDropdown"><p style="display:inline-block">Variation:</p></label>
-          <select id="variationDropdown">`;
+          <select id="variationDropdown"></div>`;
     
           Object.entries(all.DON_reference_number).forEach(([variation, value]) => {
             allInfoHTML += `<option value="${value.value}">${value.variation}</option>`;
@@ -494,9 +494,9 @@ document.addEventListener("DOMContentLoaded", function () {
         `;
     
         if (Object.keys(more.DON_reference_number).length > 1) {
-          moreInfoHTML += `
+          moreInfoHTML += `<div style="display=block;">
           <label for="variationDropdown"><p style="display:inline-block">Variation:</p></label>
-          <select id="variationDropdown">`;
+          <select id="variationDropdown"></div>`;
     
           Object.entries(more.DON_reference_number).forEach(([, value]) => {
             moreInfoHTML += `<option value="${value.value}">${value.variation}</option>`;
