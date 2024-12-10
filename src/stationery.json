@@ -16,9 +16,9 @@
         "image": [
           "./img/new/Stationery/Letterhead with Showroom Address_ROW.jpg"
           ], 
-        "name": "Letterhead with Showroom Address (North America)",
+        "name": "Letterhead with Showroom Address",
         "price": 1,
-        "description": "Letterhead with showroom address (North America).",
+        "description": "Pre-printed letterhead with showroom address. Template must be downloaded from Intranet to correctly print label.",
             "quantity": 0,
             "DON_reference_number": "",
             "contact": "To order this item, contact Angela Guarino at <a href=\"mailto:aguarino@maharam.com\">aguarino@maharam.com</a>",
@@ -28,34 +28,9 @@
         "image": [
           "./img/new/Stationery/Envenvelope with Showroom Address_ROW.jpg"
           ],
-        "name": "Envelope with Showroom Address (North America)",
+        "name": "Envelope with Showroom Address",
         "price": 0,
-        "description": "Envelope with showroom address (North America).",
-            "quantity": 0,
-            "DON_reference_number":  "",
-            "contact": "To order this item, contact Angela Guarino at <a href=\"mailto:aguarino@maharam.com\">aguarino@maharam.com</a>",
-            "Note": ""
-      },
-      {
-        "image": [
-          "./img/new/Stationery/Letterhead with Showroom Address_ROW.jpg"
-          ],
-        "name": "Letterhead with Showroom Address (ROW)",
-        "price": 0,
-        "description": "Letterhead with showroom address (ROW).",
-            "quantity": 0,
-            "DON_reference_number": "",
-            "contact": "To order this item, contact Angela Guarino at <a href=\"mailto:aguarino@maharam.com\">aguarino@maharam.com</a>",
-            "Note": ""
-      },
-
-      {
-        "image": [
-          "./img/new/Stationery/Envenvelope with Showroom Address_ROW.jpg"
-          ],
-        "name": "Envelope with Showroom Address (ROW)",
-        "price": 0,
-        "description": "Envelope with showroom address (ROW).",
+        "description": "Pre-printed envelope with showroom address.Template must be downloaded from Intranet to correctly print label.",
             "quantity": 0,
             "DON_reference_number":  "",
             "contact": "To order this item, contact Angela Guarino at <a href=\"mailto:aguarino@maharam.com\">aguarino@maharam.com</a>",
@@ -66,9 +41,9 @@
           "./img/new/Stationery/Mailing Label with Showroom Address.jpg",
           "./img/new/Stationery/Kraft-Envelope-Gusset_Label.jpg"
           ],
-        "name": "Mailing Label with Showroom Address",
+        "name": "Large Mailing Label with Showroom Address",
         "price": 0,
-        "description": "Pre-printed self adhesive mailing label to be applied to generic white envelopes and courier packages. ",
+        "description": "Pre-printed self-adhesive mailing label to be applied only to the large kraft envelope. Template must be downloaded from Intranet to correctly print label.",
             "quantity": 0,
             "DON_reference_number":  "",
             "contact": "To order this item, contact Angela Guarino at <a href=\"mailto:aguarino@maharam.com\">aguarino@maharam.com</a>",
@@ -79,9 +54,9 @@
         "image": [
           "./img/new/Stationery/Kraft-Envelope-Gusset.jpg"
           ],
-        "name": "Kraft Envelope with Gusset",
+        "name": "Large Kraft Envelope",
         "price": 0,
-        "description": "Gusseted kraft envelopes for sending samples and printed matter by courier. ",
+        "description": "Large kraft envelopes for mailing samples and printed matter.",
             "quantity": "1=100 envelopes",
             "DON_reference_number":  [
               {"variation": "Select an option", "value": "J/000003"}],
@@ -94,9 +69,9 @@
           "./img/new/Stationery/Kraft-Envelope_Label.jpg",
           "./img/new/Stationery/Mailing Label Sheet-03.jpg"
           ],
-        "name": "Mailing Label Sheet",
+        "name": "Small Mailing Label Sheet",
         "price": 0,
-        "description": "Small mailing labels should be applied only to the kraft envelope. One sheet includes sixteen self-adhesive labels.",
+        "description": "Small mailing labels to be applied only to the small kraft envelope. One sheet includes sixteen self-adhesive labels. Template must be downloaded from Intranet to correctly print label.",
             "quantity": "<br>1 = 1 pack of 250 sheets of labels",
             "DON_reference_number":  [
               {"variation": "Select an option", "value": ""}],
@@ -108,9 +83,9 @@
         "image": [
           "./img/new/Stationery/Kraft-Envelope.jpg"
           ],
-        "name": "Kraft Envelope",
+        "name": "Small Kraft Envelope",
         "price": 0,
-        "description": "7.5\" x 3.75\" in kraft envelopes used for annoucements, invitations, holiday cards and notecards.",
+        "description": "Small kraft envelopes for mailing announcements, invitations, holiday cards, and notecards.",
             "quantity": "1 = 1 box of 500 envelopes",
             "DON_reference_number": "",
             "contact": "To order this item, contact Angela Guarino at <a href=\"mailto:aguarino@maharam.com\">aguarino@maharam.com</a>",
@@ -318,7 +293,7 @@
         "description": "Name tag for events",
             "quantity": 2,
             "DON_reference_number": "",
-            "contact": "To order this item, contact Media at <a href=\"mailto:media@maharam.com\">media@maharam.com</a>",
+            "contact": "To be added to the order list, contact Media at <a href=\"mailto:media@maharam.com\">media@maharam.com</a>",
             "Note": ""
       },
 

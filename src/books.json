@@ -6,7 +6,7 @@
           ],
         "name": "Maharam Agenda",
         "price": 1,
-        "description": "Founded in 1902, Maharam evolved from a pushcart business on the Lower East Side into a leading global textile resource for architects and interior designers. Hardcover. 232 pages. Four randomized cover variations.",
+        "description": "Founded in 1902, Maharam evolved from a pushcart business on the Lower East Side into a leading global textile resource for architects and interior designers. Four randomized cover variations.",
             "quantity": 0,
             "DON_reference_number": [
               {"variation": "Select an option", "value": ""}],
@@ -19,7 +19,7 @@
           ],
         "name": "Maharam Stories",
         "price": 1,
-        "description": "Maharam Stories brings together a broad range of revealing and engaging design observations from luminaries such as Murray Moss, Hans Ulrich Obrist, John Pawson, Alice Rawsthorn, Michael Rock, Stefan Sagmeister, and more - packaged in a compelling design. Paperback. 284 pages.",
+        "description": "Maharam Stories brings together a broad range of revealing and engaging design observations from luminaries such as Murray Moss, Hans Ulrich Obrist, John Pawson, Alice Rawsthorn, Michael Rock, Stefan Sagmeister, and more - packaged in a compelling design.",
             "quantity": 0,
             "DON_reference_number":  [
               {"variation": "Select an option", "value": ""}],
@@ -32,7 +32,7 @@
           ],
         "name": "Irving Harper Works in Paper",
         "price": 1,
-        "description": "Known for his mid-century creation of the Marshmallow Sofa, Ball Clock, and Herman Miller logo as George Nelson Associates' director of design, Irving Harper made hundreds of rarely seen paper sculptures in his spare time from 1963-2000. Hardcover. 176 pages.",
+        "description": "Known for his mid-century creation of the Marshmallow Sofa, Ball Clock, and Herman Miller logo as George Nelson Associates' director of design, Irving Harper made hundreds of rarely seen paper sculptures in his spare time from 1963-2000.",
             "quantity": 1,
             "DON_reference_number":  [
               {"variation": "Select an option", "value": "801024/001"}],
@@ -60,7 +60,7 @@
           ],
         "name": "Reproducing Scholten & Baijings",
         "price": 1,
-        "description": "The first monograph on Dutch design duo Stefan Scholten and Carole Baijings takes an in-depth look at their research-intensive, hands-on, and iterative approach to making as demonstrated across seven case studies including those with 1616/Arita Japan, MINI, Georg Jensen, and Maharam. Hardcover. 348 pages.",
+        "description": "The first monograph on Dutch design duo Stefan Scholten and Carole Baijings takes an in-depth look at their research-intensive, hands-on, and iterative approach to making as demonstrated across seven case studies including those with 1616/Arita Japan, MINI, Georg Jensen, and Maharam.",
             "quantity": 1,
             "DON_reference_number":  [
               {"variation": "Select an option", "value": "801105/001"}], 
@@ -129,7 +129,7 @@
           ],
         "name": "Studio Job & The Graninger Museum",
         "price": 1,
-        "description": "The book traces a survey at the Groninger Museum in the Netherlands featuring 10 years of work by Job Smeets and Nynke Tynagel, including the Bavaria Marquette series and Ruins on the end pages. Hardcover.",
+        "description": "The book traces a survey at the Groninger Museum in the Netherlands featuring 10 years of work by Job Smeets and Nynke Tynagel, including the Bavaria Marquette series and Ruins on the end pages.",
             "quantity": 1,
             "DON_reference_number": [
               {"variation": "Select an option", "value": "801058/001"}], 
@@ -170,7 +170,7 @@
           ],
         "name": "Ilse Crawford: A Frame for Life",
         "price": 1,
-        "description": "Ilse Crawford showcases her body of influential, holistic work,articulating her philosophies for design and living. Featuring StudioIlse’s work from private residences to hotels,restaurants, and retail this book illustrates the effectiveness of design grounded in human needs and desires. Hardcover. 272 pages.",
+        "description": "Ilse Crawford showcases her body of influential, holistic work,articulating her philosophies for design and living. Featuring StudioIlse’s work from private residences to hotels,restaurants, and retail this book illustrates the effectiveness of design grounded in human needs and desires.",
             "quantity": 0,
             "DON_reference_number": [
               {"variation": "Select an option", "value": "801699/001"}], 
@@ -183,7 +183,7 @@
           ],
         "name": "Knoll Textiles: 1945-2010",
         "price": 1,
-        "description": "A comprehensive study of Knoll’s innovative textile design and the company’s role within the history of interior design. Hardcover. 400 pages.",
+        "description": "A comprehensive study of Knoll’s innovative textile design and the company’s role within the history of interior design.",
             "quantity": 0,
             "DON_reference_number": [
               {"variation": "Select an option", "value": "801701/001"}], 
@@ -196,7 +196,7 @@
           ],
         "name": "Textilepedia",
         "price": 1,
-        "description": "An extensive textile dictionary that covers all essential fabric knowledge from different types of textile materials to finishing options. Hardcover. 248 pages.",
+        "description": "An extensive textile dictionary that covers all essential fabric knowledge from different types of textile materials to finishing options.",
             "quantity": 0,
             "DON_reference_number": [
               {"variation": "Select an option", "value": "801643/001"}], 
@@ -209,7 +209,7 @@
           ],
         "name": "The Autobiography of a Snake: Drawings by Andy Warhol",
         "price": 1,
-        "description": "The story of a snake trying to make it in the world of sixties high-society. Illustrations by Andy Warhol, afterword written by Arthur and Teddy Edelman. Hardcover. 48 pages.",
+        "description": "The story of a snake trying to make it in the world of sixties high-society. Illustrations by Andy Warhol, afterword written by Arthur and Teddy Edelman.",
             "quantity": 0,
             "DON_reference_number": [
               {"variation": "Select an option", "value": "801697/001"}], 
@@ -222,7 +222,7 @@
           ],
         "name": "A Coloring Book: Drawings by Andy Warhol",
         "price": 1,
-        "description": "An enchanting colorbook designed by Andy Warhol. Foreward written by Arthur and Teddy Edelman. Paperback. 32 pages.",
+        "description": "An enchanting colorbook designed by Andy Warhol. Foreward written by Arthur and Teddy Edelman.",
             "quantity": 0,
             "DON_reference_number": [
               {"variation": "Select an option", "value": "801698/001"}], 

@@ -877,9 +877,9 @@
           "./img/new/Stationery/Letterhead with Showroom Address_ROW.jpg"
           ],
         "category": "Stationery",
-        "name": "Letterhead with Showroom Address (North America)",
+        "name": "Letterhead with Showroom Address",
         "price": 1,
-        "description": "Letterhead with showroom address (North America).",
+        "description": "Pre-printed letterhead with showroom address. Template must be downloaded from Intranet to correctly print label.",
             "quantity": 0,
             "DON_reference_number": "",
             "contact": "To order this item, contact Angela Guarino at <a href=\"mailto:aguarino@maharam.com\">aguarino@maharam.com</a>",
@@ -890,36 +890,9 @@
            "./img/new/Stationery/Envenvelope with Showroom Address_ROW.jpg"
           ],
         "category": "Stationery",
-        "name": "Envelope with Showroom Address (North America)",
+        "name": "Envelope with Showroom Address",
         "price": 0,
-        "description": "Envelope with showroom address (North America).",
-            "quantity": 0,
-            "DON_reference_number": "",
-            "contact": "To order this item, contact Angela Guarino at <a href=\"mailto:aguarino@maharam.com\">aguarino@maharam.com</a>",
-            "Note": ""
-      },
-      {
-        "image": [
-          "./img/new/Stationery/Letterhead with Showroom Address_ROW.jpg"
-          ],
-        "category": "Stationery",
-        "name": "Letterhead with Showroom Address (ROW)",
-        "price": 0,
-        "description": "Letterhead with showroom address (ROW).",
-            "quantity": 0,
-            "DON_reference_number":  "",
-            "contact": "To order this item, contact Angela Guarino at <a href=\"mailto:aguarino@maharam.com\">aguarino@maharam.com</a>",
-            "Note": ""
-      },
-
-      {
-        "image": [
-          "./img/new/Stationery/Envenvelope with Showroom Address_ROW.jpg"
-          ],
-        "category": "Stationery",
-        "name": "Envelope with Showroom Address (ROW)",
-        "price": 0,
-        "description": "Envelope with showroom address (ROW).",
+        "description": "Pre-printed envelope with showroom address.Template must be downloaded from Intranet to correctly print label.",
             "quantity": 0,
             "DON_reference_number": "",
             "contact": "To order this item, contact Angela Guarino at <a href=\"mailto:aguarino@maharam.com\">aguarino@maharam.com</a>",
@@ -931,9 +904,9 @@
           "./img/new/Stationery/Kraft-Envelope-Gusset_Label.jpg"
           ],
         "category": "Stationery",
-        "name": "Mailing Label with Showroom Address",
+        "name": "Large Mailing Label with Showroom Address",
         "price": 0,
-        "description": "Pre-printed self adhesive mailing label to be applied to generic white envelopes and courier packages. ",
+        "description": "Pre-printed self-adhesive mailing label to be applied only to the large kraft envelope. Template must be downloaded from Intranet to correctly print label.",
             "quantity": 0,
             "DON_reference_number": "",
             "contact": "To order this item, contact Angela Guarino at <a href=\"mailto:aguarino@maharam.com\">aguarino@maharam.com</a>",
@@ -945,9 +918,9 @@
           "./img/new/Stationery/Kraft-Envelope-Gusset.jpg"
           ],
         "category": "Stationery",
-        "name": "Kraft Envelope with Gusset",
+        "name": "Large Kraft Envelope",
         "price": 0,
-        "description": "Gusseted kraft envelopes for sending samples and printed matter by courier. ",
+        "description": "Large kraft envelopes for mailing samples and printed matter.",
             "quantity": "1=100 envelopes",
             "DON_reference_number":  [
               {"variation": "Select an option", "value": "J/000003"}],
@@ -961,9 +934,9 @@
           "./img/new/Stationery/Mailing Label Sheet-03.jpg"
           ],
         "category": "Stationery",
-        "name": "Mailing Label Sheet",
+        "name": "Small Mailing Label Sheet",
         "price": 0,
-        "description": "Small mailing labels should be applied only to the kraft envelope. One sheet includes sixteen self-adhesive labels.",
+        "description": "Small mailing labels to be applied only to the small kraft envelope. One sheet includes sixteen self-adhesive labels. Template must be downloaded from Intranet to correctly print label.",
             "quantity": "<br>1 = 1 pack of 250 sheets of labels",
             "DON_reference_number":  [
               {"variation": "Select an option", "value": ""}],
@@ -976,9 +949,9 @@
           "./img/new/Stationery/Kraft-Envelope.jpg"
           ],
         "category": "Stationery",
-        "name": "Kraft Envelope",
+        "name": "Small Kraft Envelope",
         "price": 0,
-        "description": "7.5\" x 3.75\" in kraft envelopes used for annoucements, invitations, holiday cards and notecards.",
+        "description": "Small kraft envelopes for mailing announcements, invitations, holiday cards, and notecards.",
             "quantity": "1 = 1 box of 500 envelopes",
             "DON_reference_number":  "",
             "contact": "Sample order entry in DON<br>To order this item, contact Angela Guarino at <a href=\"mailto:aguarino@maharam.com\">aguarino@maharam.com</a>",
@@ -1172,7 +1145,7 @@
         "description": "Name tag for events",
             "quantity": 2,
             "DON_reference_number": "",
-            "contact": "To order this item, contact Media at <a href=\"mailto:media@maharam.com\">media@maharam.com</a>",
+            "contact": "To be added to the order list, contact Media at <a href=\"mailto:media@maharam.com\">media@maharam.com</a>",
             "Note": ""
       },
 
@@ -1243,7 +1216,7 @@
         "category": "Books",
         "name": "Maharam Agenda",
         "price": 1,
-        "description": "Founded in 1902, Maharam evolved from a pushcart business on the Lower East Side into a leading global textile resource for architects and interior designers. Hardcover. 232 pages. Four randomized cover variations.",
+        "description": "Founded in 1902, Maharam evolved from a pushcart business on the Lower East Side into a leading global textile resource for architects and interior designers.Four randomized cover variations.",
             "quantity": 0,
             "DON_reference_number": [
               {"variation": "Select an option", "value": ""}],
@@ -1257,7 +1230,7 @@
         "category": "Books",
         "name": "Maharam Stories",
         "price": 1,
-        "description": "Maharam Stories brings together a broad range of revealing and engaging design observations from luminaries such as Murray Moss, Hans Ulrich Obrist, John Pawson, Alice Rawsthorn, Michael Rock, Stefan Sagmeister, and more - packaged in a compelling design. Paperback. 284 pages.",
+        "description": "Maharam Stories brings together a broad range of revealing and engaging design observations from luminaries such as Murray Moss, Hans Ulrich Obrist, John Pawson, Alice Rawsthorn, Michael Rock, Stefan Sagmeister, and more - packaged in a compelling design.",
             "quantity": 0,
             "DON_reference_number":  [
               {"variation": "Select an option", "value": ""}],
@@ -1271,7 +1244,7 @@
         "category": "Books",
         "name": "Irving Harper Works in Paper",
         "price": 1,
-        "description": "Known for his mid-century creation of the Marshmallow Sofa, Ball Clock, and Herman Miller logo as George Nelson Associates' director of design, Irving Harper made hundreds of rarely seen paper sculptures in his spare time from 1963-2000. Hardcover. 176 pages.",
+        "description": "Known for his mid-century creation of the Marshmallow Sofa, Ball Clock, and Herman Miller logo as George Nelson Associates' director of design, Irving Harper made hundreds of rarely seen paper sculptures in his spare time from 1963-2000.",
             "quantity": 1,
             "DON_reference_number":  [
               {"variation": "Select an option", "value": "801024/001"}],
@@ -1300,7 +1273,7 @@
         "category": "Books",
         "name": "Reproducing Scholten & Baijings",
         "price": 1,
-        "description": "The first monograph on Dutch design duo Stefan Scholten and Carole Baijings takes an in-depth look at their research-intensive, hands-on, and iterative approach to making as demonstrated across seven case studies including those with 1616/Arita Japan, MINI, Georg Jensen, and Maharam. Hardcover. 348 pages.",
+        "description": "The first monograph on Dutch design duo Stefan Scholten and Carole Baijings takes an in-depth look at their research-intensive, hands-on, and iterative approach to making as demonstrated across seven case studies including those with 1616/Arita Japan, MINI, Georg Jensen, and Maharam.",
             "quantity": 1,
             "DON_reference_number":  [
               {"variation": "Select an option", "value": "801105/001"}], 
@@ -1375,7 +1348,7 @@
         "category": "Books",
         "name": "Studio Job & The Graninger Museum",
         "price": 1,
-        "description": "The book traces a survey at the Groninger Museum in the Netherlands featuring 10 years of work by Job Smeets and Nynke Tynagel, including the Bavaria Marquette series and Ruins on the end pages. Hardcover.",
+        "description": "The book traces a survey at the Groninger Museum in the Netherlands featuring 10 years of work by Job Smeets and Nynke Tynagel, including the Bavaria Marquette series and Ruins on the end pages.",
             "quantity": 1,
             "DON_reference_number": [
               {"variation": "Select an option", "value": "801058/001"}], 
@@ -1420,7 +1393,7 @@
         "category": "Books",
         "name": "Ilse Crawford: A Frame for Life",
         "price": 1,
-        "description": "Ilse Crawford showcases her body of influential, holistic work,articulating her philosophies for design and living. Featuring StudioIlse’s work from private residences to hotels,restaurants, and retail this book illustrates the effectiveness of design grounded in human needs and desires. Hardcover. 272 pages.",
+        "description": "Ilse Crawford showcases her body of influential, holistic work,articulating her philosophies for design and living. Featuring StudioIlse’s work from private residences to hotels,restaurants, and retail this book illustrates the effectiveness of design grounded in human needs and desires.",
             "quantity": 1,
             "DON_reference_number": [
               {"variation": "Select an option", "value": "801699/01"}], 
@@ -1434,7 +1407,7 @@
         "category": "Books",
         "name": "Knoll Textiles: 1945-2010",
         "price": 1,
-        "description": "A comprehensive study of Knoll’s innovative textile design and the company’s role within the history of interior design. Hardcover. 400 pages.",
+        "description": "A comprehensive study of Knoll’s innovative textile design and the company’s role within the history of interior design.",
             "quantity": 1,
             "DON_reference_number": [
               {"variation": "Select an option", "value": "801701/001"}], 
@@ -1448,7 +1421,7 @@
         "category": "Books",
         "name": "Textilepedia",
         "price": 1,
-        "description": "An extensive textile dictionary that covers all essential fabric knowledge from different types of textile materials to finishing options. Hardcover. 248 pages.",
+        "description": "An extensive textile dictionary that covers all essential fabric knowledge from different types of textile materials to finishing options.",
             "quantity": 1,
             "DON_reference_number": [
               {"variation": "Select an option", "value": "801643/001"}], 
@@ -1462,7 +1435,7 @@
         "category": "Books",
         "name": "The Autobiography of a Snake: Drawings by Andy Warhol",
         "price": 1,
-        "description": "The story of a snake trying to make it in the world of sixties high-society. Illustrations by Andy Warhol, afterword written by Arthur and Teddy Edelman. Hardcover. 48 pages.",
+        "description": "The story of a snake trying to make it in the world of sixties high-society. Illustrations by Andy Warhol, afterword written by Arthur and Teddy Edelman.",
             "quantity": 0,
             "DON_reference_number": [
               {"variation": "Select an option", "value": "801697/001"}], 
@@ -1476,7 +1449,7 @@
         "category": "Books",
         "name": "A Coloring Book: Drawings by Andy Warhol",
         "price": 1,
-        "description": "An enchanting colorbook designed by Andy Warhol. Foreward written by Arthur and Teddy Edelman. Paperback. 32 pages.",
+        "description": "An enchanting colorbook designed by Andy Warhol. Foreward written by Arthur and Teddy Edelman.",
             "quantity": 0,
             "DON_reference_number": [
               {"variation": "Select an option", "value": "801698/001"}], 
