@@ -159,8 +159,7 @@
     
     {
       "image": [
-        "img/angle/stool.jpg",
-        "img/angle/stool-2.jpg"
+        "./img/new/Presentation/Sales Integration Tent Card.jpg"
         ],
       "name": "Sales Integration Tent Card",
       "price": 0,
