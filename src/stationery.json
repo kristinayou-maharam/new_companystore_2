@@ -124,33 +124,6 @@
         "image": [
           "./img/new/coming-soon.png"
           ],
-        "name": "Notecard Knoll Textiles",
-        "price": 0,
-        "description": "",
-            "quantity": 0,
-            "DON_reference_number":  [
-              {"variation": "Select an option", "value": ""}],
-            "contact": "",
-            "Note": "This item will be available soon."
-      },
-
-      {
-        "image": [
-          "./img/new/coming-soon.png"
-          ],
-        "name": "Envelope Knoll Textiles",
-        "price": 1,
-        "description": "",
-            "quantity": 0,
-            "DON_reference_number": [
-              {"variation": "Select an option", "value": ""}],
-            "contact": "",
-            "Note": "This item will be available soon."
-      },
-      {
-        "image": [
-          "./img/new/coming-soon.png"
-          ],
         "name": "Sample Request Form Pad",
         "price": 1,
         "description": "Sample request form pad for showroom sample requests.",
