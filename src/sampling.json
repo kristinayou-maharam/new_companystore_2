@@ -202,7 +202,7 @@
         "image": [
          "./img/new/Sampling/Maharam Memo Bin Label All Categories.jpg"
           ],
-        "name": "Maharam Memo Bin All Categories Label",
+        "name": "Maharam Memo Bin Labels",
         "price": 0,
         "description": "Label sheet for Maharam memo bin.",
             "quantity": 1,
@@ -216,9 +216,9 @@
         "image": [
           "./img/new/Sampling/Maharam Memo Bin Label _Leather_.jpg"
           ],
-        "name": "Maharam Memo Bin Label \"Leather\"",
+        "name": "Maharam Memo Bin Leather Label",
         "price": 0,
-        "description": "Label sheet for Maharam Leather bin.",
+        "description": "Label sheet for Maharam memo bin.",
             "quantity": 1,
             "DON_reference_number": [
               {"variation": "Select an option", "value": "B/LABELL"}
