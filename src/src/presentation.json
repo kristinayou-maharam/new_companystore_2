@@ -5,7 +5,7 @@
         "img/angle/stool.jpg",
         "img/angle/stool-2.jpg"
         ],
-      "name": "Maharam Shopping Bag",
+      "name": "Shopping Bag",
       "price": 0,
       "description": "Kraft bags are designed for showroom walk-in clients, or for delivering samples, printed matter and gifts in person. ",
       "options": [
@@ -20,9 +20,9 @@
       "image": [
         "img/angle/stool.jpg"
         ],
-      "name": "Maharam Shopping Bag Label",
+      "name": "Shopping Bag Label",
       "price": 0,
-      "description": "Label to affix to Kraft bags.",
+      "description": "Label to affix to kraft bags.",
       "options": [{"variation": "Select an option", "value": ""},
       {"variation": "White", "value": "J/BAGLBL"}
             ],

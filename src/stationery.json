@@ -10,7 +10,7 @@
           "DON_reference_number": "",
           "contact": "To order this item, contact Angela Guarino at <a href=\"mailto:aguarino@maharam.com\">aguarino@maharam.com</a>",
 
-          "Note": "Business card form must be downloaded from Intranet before proceeding to fill out information. <br><br> <a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/Forms/Forms/AllItems.aspx?id=%2Fsites%2FMHRM%2DHome%2FForms%2FMaharam%5Fbusiness%2Dcard%2Drequest%2Epdf&parent=%2Fsites%2FMHRM%2DHome%2FForms target=blank>Link to form</a>"
+          "Note": "Business Card Request form must be downloaded from Intranet before proceeding to fill out information. <br><br> <a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/Forms/Forms/AllItems.aspx?id=%2Fsites%2FMHRM%2DHome%2FForms%2FMaharam%5Fbusiness%2Dcard%2Drequest%2Epdf&parent=%2Fsites%2FMHRM%2DHome%2FForms target=blank>Link to form</a>"
       },
       {
         "image": [
@@ -99,7 +99,7 @@
           ],
         "name": "Rubber Bands",
         "price": 0,
-        "description": "Maharam's rubber band should be used with two or more  gusseted kraft envelopes for delivery to a client. ",
+        "description": "Maharam's rubber band should be used with two or more  large kraft envelopes for delivery to a client. ",
             "quantity": "25",
             "DON_reference_number":  [
               {"variation": "Select an option", "value": "J/RBRBND"}],
@@ -265,7 +265,7 @@
           ],
         "name": "Name Tag",
         "price": 0,
-        "description": "Name tag for events",
+        "description": "Name tag for events.",
             "quantity": 2,
             "DON_reference_number": "",
             "contact": "To be added to the order list, contact Media at <a href=\"mailto:media@maharam.com\">media@maharam.com</a>",
@@ -287,7 +287,7 @@
             "quantity": 0,
             "DON_reference_number": "",
             "contact": "To request an evite, send completed form to <a href=\"mailto:invites@maharam.com\">invites@maharam.com</a>",
-            "Note": "Invitation request form must be downloaded from Intranet before proceeding to fill out information.<br><br><a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/Forms/Forms/AllItems.aspx?id=%2Fsites%2FMHRM-Home%2FForms%2FMaharam_invitation-request.pdf&parent=%2Fsites%2FMHRM-Home%2FForms target=blank>Link to form</a>"
+            "Note": "Invitation Request form must be downloaded from Intranet before proceeding to fill out information.<br><br><a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/Forms/Forms/AllItems.aspx?id=%2Fsites%2FMHRM-Home%2FForms%2FMaharam_invitation-request.pdf&parent=%2Fsites%2FMHRM-Home%2FForms target=blank>Link to form</a>"
       },
 
       {
@@ -313,19 +313,19 @@
             "quantity": 0,
             "DON_reference_number": "",
             "contact": "To order a new sales team announcement, send completed form to Heather Ross at <a href=\"mailto:hross@maharam.com\">hross@maharam.com</a>",
-            "Note": "New Sales Team Announcement form must be downloaded from Intranet before proceeding to fill out information.<br><br><a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/Forms/Forms/AllItems.aspx?id=%2Fsites%2FMHRM-Home%2FForms%2FMaharam_announcement-request.pdf&parent=%2Fsites%2FMHRM-Home%2FForms target=blank>Link to form</a>"
+            "Note": "Announcement Request form must be downloaded from Intranet before proceeding to fill out information.<br><br><a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/Forms/Forms/AllItems.aspx?id=%2Fsites%2FMHRM-Home%2FForms%2FMaharam_announcement-request.pdf&parent=%2Fsites%2FMHRM-Home%2FForms target=blank>Link to form</a>"
       },
       {
         "image": [
           "./img/new/Stationery/logo-requests2.svg"
           ],
-        "name": "Logo Artwork Requests",
+        "name": "Logo Artwork",
         "price": 0,
         "description": "",
             "quantity": 0,
             "DON_reference_number": "",
             "contact": "To request logo artwork, send completed form to <a href=\"mailto:logos@maharam.com\">logos@maharam.com</a>",
-            "Note": "Logo request form must be downloaded from Intranet before proceeding to fill out information.<br><br><a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/Forms/Forms/AllItems.aspx?id=%2Fsites%2FMHRM-Home%2FForms%2FMaharam_logo-request.pdf&parent=%2Fsites%2FMHRM-Home%2FForms target=blank>Link to form</a>"
+            "Note": "Logo Request form must be downloaded from Intranet before proceeding to fill out information.<br><br><a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/Forms/Forms/AllItems.aspx?id=%2Fsites%2FMHRM-Home%2FForms%2FMaharam_logo-request.pdf&parent=%2Fsites%2FMHRM-Home%2FForms target=blank>Link to form</a>"
       }
     ]
   }

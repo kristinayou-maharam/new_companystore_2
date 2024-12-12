@@ -4,7 +4,7 @@
       "image": [
         "img/new/Presentation/Maharam Shopping Bag_new.jpg"
         ],
-      "name": "Maharam Kraft Bag",
+      "name": "Kraft Bag",
       "price": 0,
       "description": "Kraft bags are designed for showroom walk-in clients, or for delivering samples, printed matter and gifts in person. ",
       "quantity": 1,
@@ -18,9 +18,9 @@
         "./img/new/Presentation/Maharam Shopping Bag Label_on.jpg",
         "./img/new/Presentation/Maharam Shopping Bag Label.jpg"
         ],
-      "name": "Maharam Kraft Bag Label",
+      "name": "Kraft Bag Label",
       "price": 0,
-      "description": "Label to affix to Kraft bags.",
+      "description": "Label to affix to kraft bags.",
       "quantity": 25,
       "DON_reference_number": [
         {"variation": "Select an option", "value": "J/BAGLBL"}],
