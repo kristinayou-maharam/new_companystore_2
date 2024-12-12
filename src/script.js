@@ -163,7 +163,11 @@ document.addEventListener("DOMContentLoaded", function () {
 
         if (!books.quantity) {
           booksInfoHTML += `<style>#quantity-label { display: none; }</style>`;
-        }
+        };
+
+        if (!books.DON_reference_number){
+          booksInfoHTML += `<style>#don { display: none; }</style>`;
+        };
     
         booksInfoHTML += `
         <p id="don">Item Code: </p><p id="selectedValue"><strong>${Object.values(books.DON_reference_number)[0].value}</strong></p>

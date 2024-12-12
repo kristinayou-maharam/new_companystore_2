@@ -10,8 +10,8 @@
           "DON_reference_number": "",
           "contact": "To order this item, contact Angela Guarino at <a href=\"mailto:aguarino@maharam.com\">aguarino@maharam.com</a>",
 
-          "Note": "Business Card Request form must be downloaded from Intranet before proceeding to fill out information. <br><br> <a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/Forms/Forms/AllItems.aspx?id=%2Fsites%2FMHRM%2DHome%2FForms%2FMaharam%5Fbusiness%2Dcard%2Drequest%2Epdf&parent=%2Fsites%2FMHRM%2DHome%2FForms target=blank>Link to form</a>"
-      },
+          "Note": "Business Card form must be downloaded from Intranet before proceeding to fill out information. <br><br> <a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/Forms/Forms/AllItems.aspx?id=%2Fsites%2FMHRM%2DHome%2FForms%2FMaharam%5Fbusiness%2Dcard%2Drequest%2Epdf&parent=%2Fsites%2FMHRM%2DHome%2FForms target=blank>Link to form</a>"
+      }, 
       {
         "image": [
           "./img/new/Stationery/Letterhead with Showroom Address_ROW.jpg"
@@ -186,8 +186,7 @@
         "price": 1,
         "description": "White ballpoint pens with the Knoll Textiles logo from Swiss pen company Caran d’Ache.",
             "quantity": 0,
-            "DON_reference_number": [
-              {"variation": "Select an option", "value": ""}],
+            "DON_reference_number": "",
             "contact": "",
             "Note": "This item is no longer available and will not be reordered."
       },

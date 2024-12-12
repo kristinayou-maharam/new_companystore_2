@@ -8,8 +8,7 @@
         "price": 1,
         "description": "Founded in 1902, Maharam evolved from a pushcart business on the Lower East Side into a leading global textile resource for architects and interior designers. Four randomized cover variations.",
             "quantity": 0,
-            "DON_reference_number": [
-              {"variation": "Select an option", "value": ""}],
+            "DON_reference_number": "",
             "contact": "",
             "Note": "This item is no longer available and will not be reordered."
       },
@@ -21,8 +20,7 @@
         "price": 1,
         "description": "Maharam Stories brings together a broad range of revealing and engaging design observations from luminaries such as Murray Moss, Hans Ulrich Obrist, John Pawson, Alice Rawsthorn, Michael Rock, Stefan Sagmeister, and more - packaged in a compelling design.",
             "quantity": 0,
-            "DON_reference_number":  [
-              {"variation": "Select an option", "value": ""}],
+            "DON_reference_number": "",
             "contact": "",
             "Note": "This item is no longer available and will not be reordered."
       },

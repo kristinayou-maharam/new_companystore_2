@@ -224,9 +224,9 @@ document.addEventListener("DOMContentLoaded", function () {
         <p>${books.description}</p>
         <p id="quantity-label">Quantity per order: ${books.quantity}</p>
         `;
-    
+
         if (Object.keys(books.DON_reference_number).length > 1) {
-          booksInfoHTML += `<div style="display=block;">
+          booksInfoHTML += `<div style="display:block;">
           <label for="variationDropdown"><p style="display:inline-block">Variation:</p></label>
           <select id="variationDropdown"></div>`;
     
@@ -237,17 +237,27 @@ document.addEventListener("DOMContentLoaded", function () {
           booksInfoHTML += `</select><br>`;
         }
 
+        if (!books.DON_reference_number){
+          booksInfoHTML += `<style>#don { display: none; }</style>`;
+        } else{
+          booksInfoHTML += `<p id="don">Item code: </p><p id="selectedValue">${Object.values(books.DON_reference_number)[0].value}</p>`;
+        };
+
 
         if (!books.quantity) {
           booksInfoHTML += `<style>#quantity-label { display: none; }</style>`;
         }
 
+    
         booksInfoHTML += `
-        <p id="don" style="display: ${books.DON_reference_number ? 'inline-block' : 'none'}">Item code: </p><p id="selectedValue">${books.DON_reference_number ? Object.values(books.DON_reference_number)[0].value : ''}</p>
-        <p id="note" style="display: ${books.Note ? 'block' : 'none'}">Note: ${books.Note}</p>
         <p id="contact" style="display: ${books.contact ? 'block' : 'none'}">${books.contact}</p>
+        `;
+
+        booksInfoHTML += `
+        <p id="note" style="display: ${books.Note ? 'block' : 'none'}">Note: ${books.Note}</p>
         </div>
         `;
+        
     
         document.getElementById("product-info").innerHTML = booksInfoHTML;
     

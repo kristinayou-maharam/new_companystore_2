@@ -248,9 +248,7 @@
         "price": 0,
         "description": "",
             "quantity": 0,
-            "DON_reference_number": [
-              {"variation": "Select an option", "value": ""}
-                ],
+            "DON_reference_number": "",
             "contact": "",
             "Note": "This item will be available soon."
       },
@@ -262,9 +260,7 @@
         "price": 0,
         "description": "",
             "quantity": 0,
-            "DON_reference_number": [
-              {"variation": "Select an option", "value": ""}
-                ],
+            "DON_reference_number": "",
             "contact": "",
             "Note": "This item will be available soon."
       },
@@ -276,9 +272,7 @@
         "price": 0,
         "description": "",
             "quantity": 0,
-            "DON_reference_number": [
-              {"variation": "Select an option", "value": ""}
-                ],
+            "DON_reference_number": "",
             "contact": "",
             "Note": "This item will be available soon."
       },
@@ -290,9 +284,7 @@
         "price": 0,
         "description": "",
             "quantity": 0,
-            "DON_reference_number": [
-              {"variation": "Select an option", "value": ""}
-                ],
+            "DON_reference_number": "",
             "contact": "",
             "Note": "This item will be available soon."
       },
@@ -305,9 +297,7 @@
         "price": 0,
         "description": "",
             "quantity": 0,
-            "DON_reference_number": [
-              {"variation": "Select an option", "value": ""}
-                ],
+            "DON_reference_number": "",
             "contact": "",
             "Note": "This item will be available soon."
       },
@@ -320,9 +310,7 @@
         "price": 1,
         "description": "",
             "quantity": 0,
-            "DON_reference_number": [
-              {"variation": "Select an option", "value": ""}
-                ],
+            "DON_reference_number": "",
             "contact": "",
             "Note": "This item will be available soon."
       },
@@ -335,9 +323,7 @@
         "price": 0,
         "description": "",
             "quantity": 0,
-            "DON_reference_number": [
-              {"variation": "Select an option", "value": ""}
-                ],
+            "DON_reference_number": "",
             "contact": "",
             "Note": "This item will be available soon."
       },
