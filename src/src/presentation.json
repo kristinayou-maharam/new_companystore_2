@@ -203,8 +203,8 @@
     },
     {
       "image": [
-        "img/angle/stool.jpg",
-        "img/angle/stool-2.jpg"
+        "./img/new/Presentation/Briggs & Riley Carry-on_oback.jpg",
+        "./img/new/Presentation/Briggs & Riley Carry-on_standing.jpg"
         ],
       "name": "Briggs & Riley Carry-on",
       "price": 0,

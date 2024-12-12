@@ -82,7 +82,7 @@
 
       {
         "image": [
-          "./img/new/coming-soon.png"
+          "./img/new/Print/Repeat by Hella Jongerius.jpg"
           ],
         "category": "Print",
         "name": "Repeat by Hella Jongerius",
@@ -440,7 +440,8 @@
       },
       {
         "image": [
-          "./img/new/coming-soon.png"
+          "./img/new/Presentation/Briggs & Riley Carry-on_oback.jpg",
+        "./img/new/Presentation/Briggs & Riley Carry-on_standing.jpg"
           ],
         "category": "Presentation",
         "name": "Briggs & Riley Carry-on",
@@ -454,7 +455,7 @@
       },
       {
         "image": [
-          "./img/new/coming-soon.png"
+          "./img/new/Presentation/Knoll Textiles Tote_to redo.jpg"
           ],
         "category": "Presentation",
         "name": "Knoll Textiles Tote",
@@ -993,7 +994,8 @@
       
       {
         "image": [
-          "./img/new/coming-soon.png"
+          "./img/new/Stationery/Corporate Folder-1.jpg",
+          "./img/new/Stationery/Corporate Folder-2.jpg"
           ],
         "category": "Stationery",
         "name": "Corporate Folder",

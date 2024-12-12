@@ -154,7 +154,8 @@
     },
     {
       "image": [
-        "./img/new/coming-soon.png"
+       "./img/new/Presentation/Briggs & Riley Carry-on_oback.jpg",
+        "./img/new/Presentation/Briggs & Riley Carry-on_standing.jpg"
         ],
       "name": "Briggs & Riley Carry-on",
       "price": 0,
@@ -167,7 +168,7 @@
     },
     {
       "image": [
-        "./img/new/coming-soon.png"
+        "./img/new/Presentation/Knoll Textiles Tote_to redo.jpg"
         ],
       "name": "Knoll Textiles Tote",
       "price": 0,
