@@ -125,7 +125,7 @@
         "image": [
           "img/new/Books/Studio Job & The Graninger Museum.png"
           ],
-        "name": "Studio Job & The Groninger Museum",
+        "name": "Studio Job & the Groninger Museum",
         "price": 1,
         "description": "The book traces a survey at the Groninger Museum in the Netherlands featuring ten years of work by Job Smeets and Nynke Tynagel, including the Bavaria Marquette series and Ruins on the end pages.",
             "quantity": 1,
@@ -154,7 +154,7 @@
           ],
         "name": "Jacob Hashimoto: Selected Kite Works & Installations",
         "price": 1,
-        "description": "",
+        "description": "A photographic documentation of Jacob Hashimoto’s installations and kite works from 2008-2019.",
             "quantity": 1,
             "DON_reference_number": [
               {"variation": "Select an option", "value": "801645/001"}], 
@@ -245,15 +245,13 @@
           "img/new/Books/Hella Jongerius It All Starts.png"
           ],
         "category": "Print",
-        "name": "Hella Jonggerius: It All Starts With a Yarn",
+        "name": "Hella Jongerius: It All Starts With a Yarn",
         "price": 1,
-        "description": "This book celebrates Nick Cave’s collection with Knoll Textiles and shows insight into his creative process. Created by Bob Faust and Nick Cave. There are two versions of this book, one with a Big Floral Wrap cover and one without.",
+        "description": "A book documenting Hella Jongerius’ textile design process and how she always starts with a yarn.",
             "quantity": 1,
-            "DON_reference_number": [
-              {"variation": "Select an option", "value": ""}
-            ], 
-            "contact": "",
-            "Note": "Sample order entry in DON"
+            "DON_reference_number": "", 
+            "contact": "To order this item, contact Media at <a href=\"mailto:media@maharam.com\">media@maharam.com</a>",
+            "Note": ""
       },
       {
         "image": [
